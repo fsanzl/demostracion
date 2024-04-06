@@ -50,7 +50,7 @@ pdftotext -layout  -nodiag LopeAcreedores.pdf
 
 ### 1.2. De TXT a VED
 ```bash
-sed -i 's/(\w\+)  \+/\1\n/g'
+cat LopeAcreedores.txt|sed 's/^\([A-Za-záéíóú]\+\)\(\s\{2,\}\)/\U\1\n\2/g'
 ```
 ## 2. Modelado de datos
 
