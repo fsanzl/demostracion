@@ -11,7 +11,7 @@
 hombre        terribles estáis los dos.
 demonio       ponle en prisión, en efeto.
 hombre        ¿a mí en la cárcel?1
-demonio                     a vos,
+demonio                     a vos,
           que no hay que guardar respeto
           a quien no le guarda a dios.     5
 hombre    términos hay que guardar.
@@ -36,7 +36,7 @@ hombre    esta deuda de dios fue
           y dios me quiere esperar.        1
           Yo quiero, demonio, hacer
           hoy concurso de acreedores; 4
-          quiero pagar, y ha de ser
+          quiero pagar, y ha de ser
           por su antigüedad.
 demonio                     ¡Qué errores
           de pagador bachiller! 1               15
@@ -64,7 +64,7 @@ demonio   Yo soy el ejecutor;
 
           pagad como yo pagué,          5       25
           que dios su poder me ha dado.
-hombre    no hay tal, que no pudo ser,
+hombre    no hay tal, que no pudo ser,
           aunque lo habéis intentado.
 demonio   no he menester su poder;
           por mí estáis ejecutado.           3
@@ -93,7 +93,7 @@ pecado                 sí lo es,
 hombre                       ¿Y no es nada
           el dote?
                 4
-pecado           Ya lo sé yo.
+pecado           Ya lo sé yo.
 hombre    ¿Y ha de quedar indotada?    1       4
 pecado    ¿Qué puede el alma probar
           siendo suyas las potencias?      2
@@ -116,7 +116,7 @@ hombre             ¿por qué razón?
 demonio   pecado, adelante pasa.
 hombre    no pasa la ejecución.                5
 demonio   Vaya a la cárcel.
-hombre                    ¿por qué
+hombre                    ¿por qué
           sois descorteses conmigo?
           si debo, yo pagaré.
 demonio   dime tú: ¿cuál enemigo
@@ -154,7 +154,7 @@ demonio   Que ya todo eso ha pasado.
           que cuando a dios le debí
           tan presto cobró de mí
           que le pagué de contado.         75
-hombre    el pleito quiero poner;
+hombre    el pleito quiero poner;
           si dios me quiere esperar
           ¿qué es lo que puedes hacer?
 demonio   dios te puede perdonar
@@ -186,7 +186,7 @@ demonio   ¡Qué gentil ejecutor!
           las deudas de su señor!           95
           ¿no rezaba el mandamiento
           más de «Quién como dios»      3
-          cuando con golpe violento
+          cuando con golpe violento
           que me echó, sabéis los dos,
           del monte del testamento?   1   1
           pues si me quitan mi casa
@@ -215,7 +215,7 @@ hombre    La vida es plazo muy breve,
 demonio   dios espera en paz segura,
           ninguna cosa le altera.         115
           Yo, que me estoy abrasando,
-             ¿cómo he de estar esperando?
+             ¿cómo he de estar esperando?
              dame el descanso de dios
              y esperaremos los dos,
              y nunca pagues pecando.          12
@@ -248,7 +248,7 @@ tierra       dices bien, tiempo; aquí está.
 pecado       más te vienen a pedir,
              como te ven preso ya.            135
 tiempo       hombre paga, el tiempo soy.
-hombre   harto me pesa de verte,
+hombre   harto me pesa de verte,
          mas ¿qué te debo? aquí estoy.
 tiempo   por un poder de la muerte
          que yo otras veces le doy,         14
@@ -278,7 +278,7 @@ tierra   todo está ya rebelado
          de ti sustentarse todos,
          pues que sustento te fían.         16
          paga, que no hay quien espere.
-hombre        ¡oh, bárbaros acreedores,
+hombre        ¡oh, bárbaros acreedores,
               dios vuestras deudas preﬁere!
               ¿por qué usáis tantos rigores
               si dios esperarme quiere?                      165
@@ -306,7 +306,7 @@ Justicia      ¡hola! ¿Qué voces son estas?
               ¿por qué lleváis ese preso?
 demonio       ¿preguntáis lo que sabéis,
               supremo y divino teos,  3
-               o desconocéis al hombre          175
+               o desconocéis al hombre          175
                en tantas miserias puesto?
                Lo que nos debe pedimos.
 misericordia   ¿Y no pudiera prenderlo
@@ -335,7 +335,7 @@ hombre         Jüez divino, conﬁeso
 
 
                y me dejaron después
-viento, nada, polvo, inﬁerno.
+viento, nada, polvo, inﬁerno.
                           1          2
 no ha hecho cosa por mí
 sin interés y mal hecho
@@ -365,7 +365,7 @@ por dicha desta palabra?             215
 ¿cuál hombre, en cuantos nacieron,
 le han comido sin cuidado
 y con descanso perfeto?
-               ¿Qué corona, qué laurel,
+               ¿Qué corona, qué laurel,
                qué tïara, qué capelo
                        1                          22
                desde la espada a la pluma
@@ -391,7 +391,7 @@ misericordia   no hay aquí pleitos sin mí,        235
 Justicia       de ti no, pero si el hombre
                fía tanto de tu pecho
                que no me teme...
-misericordia                    sí teme.
+misericordia                    sí teme.
 hombre         Justicia santa, sí temo.            24
 demonio        miente, porque en conﬁanza
                de «hoy, mañana, esotro, luego,
@@ -418,7 +418,7 @@ hombre         sol divino que descubres
                los átomos más humildes,
                señor, no puedo ser preso
                siendo, como soy, hidalgo.  3       255
-demonio        ¡buen hidalgo sin agüelo!   1
+demonio        ¡buen hidalgo sin agüelo!   1
 
 
 
@@ -441,7 +441,7 @@ misericordia             paso, quedo,              26
 
 Justicia       antes será a las espaldas
                en forma de vituperio.4
-misericordia   no habrá cosa más gloriosa          265
+misericordia   no habrá cosa más gloriosa          265
                que esa afrenta.  1
 
 
@@ -465,7 +465,7 @@ misericordia   siendo dios, como es, inmenso,  2
 
 
                ¿quién le ha de pagar?
-Justicia                                  cierra
+Justicia                                  cierra
               el tribunal.
 
            Ciérrase todo.
@@ -491,7 +491,7 @@ hombre        soy de dios.
 demonio                      Yo soy tu dueño.
 
            Vanse y sale el Príncipe divino.
-príncipe   entre todos los vicios                       285
+príncipe   entre todos los vicios                       285
            eres, ingratitud, inescrutable.
                           1
 
@@ -511,7 +511,7 @@ demonio                      Yo soy tu dueño.
 
            con las tres partes que en el alma encierra,
                                                     3
-             responde con ofensas,                     295
+             responde con ofensas,                     295
              que ser inmenso dios las hace inmensas.
                                                   1
 
@@ -548,7 +548,7 @@ demonio                      Yo soy tu dueño.
 
 cuidado      puesto la rodilla en tierra,
              oh príncipe generoso,                        31
-           en cuyo pecho amoroso
+           en cuyo pecho amoroso
            vuestro padre eterno encierra
            el tesoro soberano
            de su poder, y de modo,
@@ -586,7 +586,7 @@ cuidado      puesto la rodilla en tierra,
            doléos, príncipe, dél.
 príncipe   ¿Que por su culpa ha llegado
            el hombre a tan triste estado?
-cuidado       bien lo sabréis del papel,
+cuidado       bien lo sabréis del papel,
               aunque bien lo sabéis todo;1               345
               pero muy bien sabéis vos
               que suele el hombre con dios
@@ -612,7 +612,7 @@ príncipe      «en el papel de mi confusa vida,
               en el corazón, cuidado!
 cuidado       ¿dolor?
 príncipe            dolor de costado,2                   365
-           que es donde tengo el amor.
+           que es donde tengo el amor.
 cuidado    ¿ahora, señor? ¿de qué?
 príncipe   desta palabra no más.
 cuidado    ¿de un papel tan tierno estás?
@@ -634,7 +634,7 @@ príncipe   si no me queréis perder,
            de vuestros bienes también,      38
            y si yo soy vuestro bien,
            no hagáis dejación de bienes.
-             ¡oh, palabra, oh poderío
+             ¡oh, palabra, oh poderío
              de amor siempre grande en mí!
              «pues que no te dejo a ti,         385
              que eres tú solo bien mío».
@@ -669,7 +669,7 @@ hombre       ¡oh príncipe celestial!
              parece que me han dejado.
              mírame el demonio aquí
              como a quien tiene en desprecio.
-texto del auto                                           53
+texto del auto                                           53
 
 príncipe            ¿ansí? ¿pues no sabe el necio
                     el amor que vive en mí              41
@@ -708,7 +708,7 @@ príncipe            Justicia, aunque estáis dispuesta
                     a seguir por todo estremo
                     vuestro rigor con el hombre,
                     demos un medio que sea              44
-               conforme a lo que desea
+               conforme a lo que desea
                la equidad de vuestro nombre.
                              1
 
@@ -741,7 +741,7 @@ Justicia                    Vos sois su igual:
                ni en el poder celestial.
                La eternidad en el ser,            455
                la inmensidad en la alteza
-               de vuestra excelsa grandeza,
+               de vuestra excelsa grandeza,
                la virtud en el poder
                tienen la misma igualdad
                respeto al conocimiento           46
@@ -767,7 +767,7 @@ príncipe       sacad el hombre de allí.          47
 misericordia   ¡oh, bien haya tu piedad!
 Justicia       ¿estás muy contento?
 misericordia                         mucho.
-cuidado       hombre, sal libre.
+cuidado       hombre, sal libre.
 hombre                             ¿Qué escucho?
 cuidado       Que ya tienes libertad.
 Justicia      ¿Qué plazo, señor, tomáis            475
@@ -794,7 +794,7 @@ hombre                    Luz más pura
 
 
               que el sol, imagen divina
-              de tu padre, ¿qué diré
+              de tu padre, ¿qué diré
               de tu piedad? ¿Qué daré                      485
               a tu amor?
 príncipe                 La vista inclina
@@ -825,7 +825,7 @@ demonio       ¡Fuera digo! ¿sin pagarme                    495
 
               es este? ¡Vive el abismo
               que he de cobrarlo del hombre
-          aunque de dios tenga el nombre     55
+          aunque de dios tenga el nombre     55
           y se juntase a dios mismo!
           ¿dámele a mí la Justicia
           por esclavo y quiere dios
@@ -863,7 +863,7 @@ demonio   mienten, que un hora segura
 
 
                                              ueda
-           pues ¿de qué logrero soy
+           pues ¿de qué logrero soy
            si ha tantos años que estoy         525
            sin dios en cárcel tan dura?
            ¿Qué es lo que están escribiendo?
@@ -888,7 +888,7 @@ demonio    ¡casos por el cielo estraños!       54
            a mi desdicha?
 Justicia                  Firmad.
 príncipe   Firmo.
-hombre              notable piedad.
+hombre              notable piedad.
 Justicia      hoy seréis, ángeles bellos,
               testigos.
 hombre               Y yo con ellos           545
@@ -930,7 +930,7 @@ demonio                 Y yo al inﬁerno,
 
 
                                                 -
-             Vanse y sale el Cuidado y el Agradecimiento.
+             Vanse y sale el Cuidado y el Agradecimiento.
 
 cuidado          no tenéis qué me decir,
                  que no tengo yo la culpa.
@@ -967,7 +967,7 @@ cuidado          como tiene buen ﬁador,
                  que cuando no hay algún vicio
                  pocas veces sin oﬁcio
                  medra el más viejo crïado.                 59
-agradecimiento   ¿cómo te traes el vestido
+agradecimiento   ¿cómo te traes el vestido
                  que cuando cuidado fuiste?
 cuidado          porque el crïado consiste
                  en un esterior ﬁngido.
@@ -1002,7 +1002,7 @@ hombre           no hay gusto que al vuestro iguale.   61
                  ¡Qué bien canta la Locura!
 Vanidad          solo agradarte procura
                  mi rendida voluntad.
-agradecimiento   si gasta en esto su hacienda,     615
+agradecimiento   si gasta en esto su hacienda,     615
                  ¿cómo ha de pagar?
 cuidado                              no sé.
 Locura           aunque al descuido, pasé
@@ -1025,7 +1025,7 @@ cuidado                         escondido
                  tuvo hasta el menor sentido.
 agradecimiento   no puede ser engañado,            63
                  descuido, el ﬁador que es dios.
-cuidado      calla, que se quieren ir
+cuidado      calla, que se quieren ir
              y tú le podrás reñir
              cuando estéis solos los dos.
 hombre       ¿tan presto os vais, Vanidad?     635
@@ -1060,7 +1060,7 @@ hombre       solamente los señores             655
              que tienen treinta porteros
              de su vista defensores;
              no quien defensa no tiene,
-                 sino que luego ha de dar             66
+                 sino que luego ha de dar             66
                  con el que viene a cobrar.
 cuidado          no a cobrar; a hablarte viene.
 agradecimiento   ¿parecerate muy mal
@@ -1092,7 +1092,7 @@ agradecimiento   rigurosa condición,                  675
                  ¿quién le puede ser ingrato?         68
 
              Sale el Príncipe.
-príncipe         mientras más al hombre trato,
+príncipe         mientras más al hombre trato,
                  más me trata mal con celos.
                  amigo, ¿qué haces aquí?
 agradecimiento   Vengo de hablar con el hombre.
@@ -1127,7 +1127,7 @@ hombre           como ella es loca, soy loco,     75
 cuidado          ¡el príncipe!
 hombre                       ¿Qué me cuentas?
 cuidado          digo que es él; no hay huïr.
-hombre    ¿Qué le tengo de decir?
+hombre    ¿Qué le tengo de decir?
 cuidado   dile que pagarle intentas.           71
 hombre    ¡Vive dios!, que es fuerte caso
           topar un hombre a quien debe,
@@ -1156,7 +1156,7 @@ hombre    suelen encontrarse dos
           a dios.
 cuidado          ¡buen loco tenemos!
           ¡si no hay cosa en que no esté!      73
-hombre        ahora bien, descuido mío,
+hombre        ahora bien, descuido mío,
               echa por aquí.
 cuidado                     mal haces.
 hombre        por la vergüenza incapaces
@@ -1192,7 +1192,7 @@ príncipe      ¡Qué fácil que te declaras!
               nace el despreciarme ansí.
 hombre        ¿Quién no te conoce a ti?
 príncipe      Vete, si tienes que hacer.
-hombre        ¿hay semejante bondad?                       755
+hombre        ¿hay semejante bondad?                       755
               besen los cielos tus pies;
               yo vendré a verte después,
               soberana majestad.
@@ -1227,7 +1227,7 @@ mundo         temor de verle me dio.
 Justicia      soberano señor, ya se ha cumplido
               el plazo a que quedastes obligado;
                                        1                   78
-la escritura que hicistes ha tenido
+la escritura que hicistes ha tenido
 el ﬁn de tantos siglos deseado.
 Vuestro padre cumplió lo prometido
 y al mundo, como veis, os ha envïado;
@@ -1244,7 +1244,7 @@ la vida no, que estáis ejecutado.
 bien sabéis, gran señor, que os obligastes   795
 a morir en naciendo y que quisistes
 haceros vos deudor, que no pecastes 2
-           y que en forma de esclavo os ofrecistes.
+           y que en forma de esclavo os ofrecistes.
            dad licencia que os saquen, si ya orastes,
            y la respuesta que sabéis tuvistes.             8
            palabra de dios es: ponedla en obra,
@@ -1274,7 +1274,7 @@ príncipe   Justicia, no replico al mandamiento;
 
            vi de la ejecución los graves daños             82
            comenzando a pagar la vida al suelo
-           en el principio de mis tiernos años.
+           en el principio de mis tiernos años.
            amor, yo me obligué —testigo el cielo—,
            mis trabajos te dieron desengaños
            de que quiero pagar, aunque la muerte     825
@@ -1308,7 +1308,7 @@ Justicia   señor, vos vais a morir,
            que se conformen los dos.
 príncipe   ¿Que en ﬁn tengo de ir asido?             845
 usticia    sí, señor.                                 J
-príncipe              ¿siendo quien soy?
+príncipe              ¿siendo quien soy?
 Justicia      esta licencia le doy
               al mundo que os ha ofendido.
 príncipe      pues ¿cómo tanto ruïdo
@@ -1336,7 +1336,7 @@ cuidado       el acreedor tuyo es dios                  865
               que traspasa la escritura
               al mundo y quiere con ella
               quedar de la deuda libre.
-hombre       ¡ay, suma bondad inmensa!                     87
+hombre       ¡ay, suma bondad inmensa!                     87
              ahora bien, yo no he de ser
              ingrato, ni dios lo quiera:
              si las piedras se enternecen 1
@@ -1362,7 +1362,7 @@ hombre       ¿hay lástima semejante?                       885
           El Príncipe detrás de la reja con una tunicela
           morada y una corona de espinas.
                   2
-hombre        señor, ¿qué es esto? ¿Quién fue
+hombre        señor, ¿qué es esto? ¿Quién fue
               tan ﬁero que la belleza
               de los cielos puso ansí?
 príncipe      amigo, tus mismas deudas.           89
@@ -1387,7 +1387,7 @@ príncipe      basta que tú me agradezcas
               por gloria y descanso tenga.
               solo te pido, pues pago,
               no huyas de mí, ni seas
-            —como viviendo lo has sido—
+            —como viviendo lo has sido—
             ingrato después que muera.        91
             hombre, ya vienen por mí,
             quédate a dios, que me llevan
@@ -1420,7 +1420,7 @@ hombre      Fuese. ¡notable tristeza!
 
             mas ¿qué mucho, si dios paga
             mis deudas con su inocencia,
-             que se trastornen los cielos
+             que se trastornen los cielos
              y que se rompa la tierra?               93
 
           Sale el Demonio y el Pecado.
@@ -1459,7 +1459,7 @@ hombre       en una tabla sangrienta
 
              se ha quedado con el hombre
              depositado en su iglesia.               95
-demonio      ¿Qué dices, hombre? ¿estás loco?
+demonio      ¿Qué dices, hombre? ¿estás loco?
 hombre       de contento bien pudiera,
              aunque en ver que por mí muere
              me ha dado mortal tristeza.
@@ -1487,7 +1487,7 @@ hombre       pues vuelve, y verás su triunfo.           965
 
 
           resucitado.
-príncipe          celebre el cielo y la tierra
+príncipe          celebre el cielo y la tierra
                   la vitoria desta paga.
 cuidado           ¡oh, qué glorioso que llega!
 demonio           ciego de mirar su luz.
@@ -1515,7 +1515,7 @@ demonio           ¿Y yo de qué lo estaré,
                   que como si no me hiciera,
                   quiere que los pies del hombre
                   me quebranten la cabeza.     2
-               Vente conmigo, pecado,                 985
+               Vente conmigo, pecado,                 985
                que aunque dios pagado queda
                yo armaré trampas al hombre
                con que a las manos me venga.
@@ -1544,7 +1544,7 @@ Justicia       Yo cancelo la escritura.
 
 
                esta llave celestial.
-príncipe   Y yo quiero abrir con ella
+príncipe   Y yo quiero abrir con ella
            la gloria que he conquistado.
 hombre     ¡oh, quién de esa boca oyera!    11
            pues no fue menos que dios
@@ -1558,4 +1558,3 @@ príncipe   sí serás, que para ti
            queda entretanto en mi iglesia
            la prenda que con mi gracia      115
            te dará mi gloria eterna.
-
