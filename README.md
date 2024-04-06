@@ -53,5 +53,15 @@ stanza.download(lang="es",
 
 ## 2. Anotación métrica del corpus
 ### 2.1. Verso a verso
+```python
+from libEscansion import VerseMetre
+verso = '¡A la escota! ¡Al chafaldete!'
+resultado = VerseMetre(verso)
+```
+
+```python
+for atributo in ['line', 'count', 'syllables', 'rhyme', 'asson', 'nuclei', 'rhythm']:
+    print(f'{atributo}:\t{getattr(resultado, atributo)}')
+```
 ### 2.2 Procesamiento masivo
 
