@@ -44,6 +44,9 @@ stanza.download(lang="es",
 ## 1. Limpieza y preprocesado
 
 ### 1.1 De PDF a TXT
+```bash
+pdftotext -layout  -nodiag LopeAcreedores.pdf
+```
 
 ### 1.2. De TXT a VED
 
