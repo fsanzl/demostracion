@@ -49,7 +49,9 @@ pdftotext -layout  -nodiag LopeAcreedores.pdf
 ```
 
 ### 1.2. De TXT a VED
-
+```bash
+sed -i 's/(\w\+)  \+/\1\n/g'
+```
 ## 2. Modelado de datos
 
 ### 2.1. De VED a XML-TEI
