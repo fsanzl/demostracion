@@ -18,6 +18,7 @@ pip install pip install silabeador fonemas stanza==1.7.0 libEscansion txt2tei
 
 #### 0.2 Modelos de lengua
 ```bash
+export STANZA_RESOURCES_DIR=./.venv/lib/python3.11/site-packages/stanza/resources
 python
 ```
 
@@ -39,3 +40,18 @@ stanza.download(lang="es",
                             "depparse": "ancora",
                             "sentiment": "tass2020"}) 
 ```
+
+## 1. Limpieza y procesado
+
+### 1.1 De PDF a TXT
+
+### 1.2. De TXT a VED
+
+### 1.3 De VED a XML-TEI
+
+### 1.4 De VED a CSV
+
+## 2. Anotación métrica del corpus
+### 2.1. Verso a verso
+### 2.2 Procesamiento masivo
+
