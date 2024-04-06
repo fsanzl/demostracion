@@ -41,18 +41,20 @@ stanza.download(lang="es",
                             "sentiment": "tass2020"}) 
 ```
 
-## 1. Limpieza y procesado
+## 1. Limpieza y preprocesado
 
 ### 1.1 De PDF a TXT
 
 ### 1.2. De TXT a VED
 
-### 1.3 De VED a XML-TEI
+## 2. Modelado de datos
 
-### 1.4 De VED a CSV
+### 2.1. De VED a XML-TEI
 
-## 2. Anotación métrica del corpus
-### 2.1. Verso a verso
+### 2.2. De VED a CSV
+
+## 3. Anotación métrica del corpus
+### 3.1. Verso a verso
 ```python
 from libEscansion import VerseMetre
 verso = '¡A la escota! ¡Al chafaldete!'
@@ -63,5 +65,5 @@ resultado = VerseMetre(verso)
 for atributo in ['line', 'count', 'syllables', 'rhyme', 'asson', 'nuclei', 'rhythm']:
     print(f'{atributo}:\t{getattr(resultado, atributo)}')
 ```
-### 2.2 Procesamiento masivo
+### 3.2 Procesamiento masivo
 
