@@ -45,7 +45,7 @@ stanza.download(lang="es",
 
 ### 1.1 De PDF a TXT
 ```bash
-pdftotext -layout  -nodiag LopeAcreedores.pdf
+pdftotext -layout -nodiag -nopgbrk LopeAcreedores.pdf
 ```
 
 ### 1.2. De TXT a VED
