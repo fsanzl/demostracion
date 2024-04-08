@@ -1,0 +1,5 @@
+txt2tei
+normal
+silabeador
+fonemas
+libEscansion
