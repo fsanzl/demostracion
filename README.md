@@ -1,8 +1,14 @@
 # Secuencia de trabajo
 
-## 0. Instalación
+## 0 Instalación
 
-### 0.1 Bibliotecas de Python
+### 0.1 Prerequisitos
+
+- Python >= 3.9
+- Herramienta para transformar de PDF a TXT conservando la composición de la página
+- Editor capaz de hacer sustituciones mediante expresiones regulares
+
+### 0.2 Bibliotecas de Python
 
 ```bash
 python -m venv .venv --prompt "Entorno virtual"
@@ -16,7 +22,8 @@ source ./.venv/bin/activate
 pip install pip install silabeador fonemas stanza==1.7.0 libEscansion txt2tei
 ```
 
-#### 0.2 Modelos de lengua
+#### 0.3 Modelos de lengua
+
 ```bash
 export STANZA_RESOURCES_DIR=./.venv/lib/python3.11/site-packages/stanza/resources
 python
@@ -41,25 +48,30 @@ stanza.download(lang="es",
                             "sentiment": "tass2020"}) 
 ```
 
-## 1. Limpieza y preprocesado
+## 1 Limpieza y preprocesado
 
 ### 1.1 De PDF a TXT
+
 ```bash
 pdftotext -layout -nodiag -nopgbrk LopeAcreedores.pdf
 ```
 
-### 1.2. De TXT a VED
+### 1.2 De TXT a VED
+
 ```bash
 cat LopeAcreedores.txt|sed 's/^\([A-Za-záéíóú]\+\)\(\s\{2,\}\)/\U\1\n\2/g'
 ```
-## 2. Modelado de datos
+
+## 2 Modelado de datos
 
 ### 2.1. De VED a XML-TEI
 
 ### 2.2. De VED a CSV
 
 ## 3. Anotación métrica del corpus
+
 ### 3.1. Verso a verso
+
 ```python
 from libEscansion import VerseMetre
 verso = '¡A la escota! ¡Al chafaldete!'
@@ -70,5 +82,6 @@ resultado = VerseMetre(verso)
 for atributo in ['line', 'count', 'syllables', 'rhyme', 'asson', 'nuclei', 'rhythm']:
     print(f'{atributo}:\t{getattr(resultado, atributo)}')
 ```
+
 ### 3.2 Procesamiento masivo
 
