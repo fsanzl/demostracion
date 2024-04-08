@@ -22,7 +22,7 @@ source ./.venv/bin/activate
 pip install pip install silabeador fonemas stanza==1.7.0 libEscansion txt2tei
 ```
 
-#### 0.3 Modelos de lengua
+### 0.3 Modelos de lengua
 
 ```bash
 export STANZA_RESOURCES_DIR=./.venv/lib/python3.11/site-packages/stanza/resources
