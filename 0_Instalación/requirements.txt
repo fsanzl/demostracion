@@ -1,3 +1,4 @@
+stanza==1.7.0
 txt2tei
 normal
 silabeador
