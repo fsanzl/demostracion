@@ -1,0 +1,2231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="main">Los acreedores deL hombre</title><title type="sub">subtitle</title><author cert="medium">
+    <persName>(attr.)<forename>F&#233;lix</forename><surname sort="1">Lope</surname><nameLink>de</nameLink><surname>Vega</surname><surname>Carpio</surname></persName>
+    <idno type="wikidata">Q165257</idno>
+  </author>
+  <respStmt><resp>Automatic generation of the XML/TEI by</resp><persName>Fernando Sanz-L&#225;zaro</persName></respStmt></titleStmt>
+      <publicationStmt>
+        <authority/>
+        <idno type="URL"/>
+        <date when="2024-04-17T17:16:48"/>
+        <availability>
+          <licence>
+            <ab>CC BY</ab>
+            <ref>https://creativecommons.org/publicdomain/BY/3.0/</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name/>
+          <idno type="URL"/>
+        </bibl>
+        <bibl type="originalSource">
+          <title>source</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="UNKNOWN" xml:id="hombre">
+            <persName>HOMBRE</persName>
+          </person>
+          <person sex="MALE" xml:id="demonio">
+            <persName>DEMONIO</persName>
+          </person>
+          <person sex="MALE" xml:id="pecado">
+            <persName>PECADO</persName>
+          </person>
+          <person sex="FEMALE" xml:id="tierra">
+            <persName>TIERRA</persName>
+          </person>
+          <person sex="MALE" xml:id="tiempo">
+            <persName>TIEMPO</persName>
+          </person>
+          <person sex="FEMALE" xml:id="justicia">
+            <persName>JUSTICIA</persName>
+          </person>
+          <person sex="FEMALE" xml:id="misericordia">
+            <persName>MISERICORDIA</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="principe">
+            <persName>PR&#205;NCIPE</persName>
+          </person>
+          <person sex="MALE" xml:id="cuidado">
+            <persName>CUIDADO</persName>
+          </person>
+          <person sex="MALE" xml:id="agradecimiento">
+            <persName>AGRADECIMIENTO</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="vanidad">
+            <persName>VANIDAD</persName>
+          </person>
+          <person sex="FEMALE" xml:id="locura">
+            <persName>LOCURA</persName>
+          </person>
+          <person sex="MALE" xml:id="mundo">
+            <persName>MUNDO</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">genre</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2024-04-17T17:16:48">Converted with txt2tei&lt;https://github.com/fsanzl/txt2tei&gt;</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <date type="print" when="date" cert="medium"/>
+      <date type="written" when="date" cert="medium"/>
+    </listEvent>
+  </standOff>
+  <text>
+    <front/>
+    <body>
+      <div type="act" n="1">
+        <div type="scene" n="1">
+          <stage>Salen el Demonio y el Hombre, y el Pecado con vara y mandamiento.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="1" met="-+--+-+">terribles est&#225;is los dos.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="2" met="+--+--+-">ponle en prisi&#243;n, en efeto.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="3" met="-+-+--+">&#191;a m&#237; en la c&#225;rcel?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="3" part="F" met="-+-+--+">a vos,</l>
+            <l n="4" met="-+--+-+-">que no hay que guardar respeto</l>
+            <l n="5" met="--+-+-+">a quien no le guarda a dios.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="6" met="+--+--+">t&#233;rminos hay que guardar.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="7" met="-+----+">por todos le ejecut&#233;;</l>
+            <l n="8" met="++--+-+">no tiene de qu&#233; pagar.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="9" met="+-+--++">esta deuda de dios fue</l>
+            <l n="10" met="-+-+--+">y dios me quiere esperar.</l>
+            <l n="11" met="++--+-+">Yo quiero, demonio, hacer</l>
+            <l n="12" met="+-+---+-">hoy concurso de acreedores;</l>
+            <l n="13" met="+--++-+">quiero pagar, y ha de ser</l>
+            <l part="I" n="14" met="----+++-">por su antig&#252;edad.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="14" part="F" met="----+++-">&#161;Qu&#233; errores</l>
+            <l n="15" met="---+--+">de pagador bachiller!</l>
+            <l n="16" met="-+---+">desde eva se os qued&#243;</l>
+            <l n="17" met="-+----+-">el modo de disculparos:</l>
+            <l n="18" met="--+---+">la soberbia os enga&#241;&#243;.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="19" met="++--+-+-">no tengo de qu&#233; pagaros.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="20" met="--+-+-+">pues por eso os prendo yo.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="21" met="--+--++">si la ofensa de dios fue</l>
+            <l n="22" met="+-+---+">deuda a todos anterior,</l>
+            <l n="23" met="+-++--+">pida dios: yo pagar&#233;.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="24" met="++----+">Yo soy el ejecutor;</l>
+            <l n="25" met="-+--+-+">pagad como yo pagu&#233;,</l>
+            <l n="26" met="-+--+++-">que dios su poder me ha dado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="27" met="++-++-+">no hay tal, que no pudo ser,</l>
+            <l n="28" met="---+--+-">aunque lo hab&#233;is intentado.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="29" met="+--+--+">no he menester su poder;</l>
+            <l n="30" met="-++---+-">por m&#237; est&#225;is ejecutado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="31" met="-+-+--+">el alma quiere pedir</l>
+            <l part="I" n="32" met="-+-+--+">la fuerza.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="32" part="F" met="-+-+--+">pida; despu&#233;s</l>
+            <l n="33" met="-+--+-+">tambi&#233;n la sabr&#225;n o&#237;r.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="34" met="+--+++">es mi mujer.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="34" part="F" met="+--+++">s&#237; lo es,</l>
+            <l n="35" met="--++--+">pero &#191;qu&#233; puede decir</l>
+            <l n="36" met="-+-+--+-">si est&#225; con vos obligada</l>
+            <l n="37" met="---+--+">desde que dios la infundi&#243;</l>
+            <l part="I" n="38" met="---+-++-">en vuestro pecho?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="38" part="F" met="---+-++-">&#191;Y no es nada</l>
+            <l part="I" n="39" met="-+-+-++">el dote?</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="39" part="F" met="-+-+-++">Ya lo s&#233; yo.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="40" met="+--+--+-">&#191;Y ha de quedar indotada?</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="41" met="++-+--+">&#191;Qu&#233; puede el alma probar</l>
+            <l n="42" met="+-+---+-">siendo suyas las potencias?</l>
+            <l n="43" met="-+--+-+">&#191;pud&#237;stesla vos forzar?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="44" met="+-++--+-">claro est&#225;.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="44" part="F" met="+-++--+-">&#161;Qu&#233; inadvertencias!</l>
+            <l n="45" met="+--+--+">hombre, dejemos de hablar,</l>
+            <l n="46" met="-+++--+">que vos no sois el var&#243;n.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="47" met="-+-+--+-">pues &#191;qui&#233;n mandaba en mi casa?</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l part="I" n="48" met="--+-+-+">La raz&#243;n.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="48" part="F" met="--+-+-+">&#191;por qu&#233; raz&#243;n?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="49" met="-+--+-+-">pecado, adelante pasa.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="50" met="++----+">no pasa la ejecuci&#243;n.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I" n="51" met="+--+--+">Vaya a la c&#225;rcel.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="51" part="F" met="+--+--+">&#191;por qu&#233;</l>
+            <l n="52" met="+--+--+-">sois descorteses conmigo?</l>
+            <l n="53" met="-+-+--+">si debo, yo pagar&#233;.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="54" met="+-++--+-">dime t&#250;: &#191;cu&#225;l enemigo</l>
+            <l n="55" met="-+--+-+">mayor para m&#237; lo fue?</l>
+            <l n="56" met="-+-+--+-">el no querer humillarme</l>
+            <l n="57" met="++--+-+">a un hombre me tiene ans&#237;.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="58" met="+--+--+-">&#191;eso te obliga a quitarme</l>
+            <l n="59" met="-+--+-+">mis bienes, demonio, a m&#237;,</l>
+            <l n="60" met="-+----+-">y en ellos ejecutarme?</l>
+            <l n="61" met="-+-+--+-">miraras t&#250; lo que hac&#237;as.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="62" met="+++---+">Yo no tengo que mirar,</l>
+            <l n="63" met="----+-+-">que aunque para eternos d&#237;as</l>
+            <l n="64" met="-+-+--+">mis penas han de durar,</l>
+            <l n="65" met="++---++-">son glorias porque son m&#237;as;</l>
+            <l n="66" met="-+-+--+">aquel instante que fui</l>
+            <l n="67" met="+-----+">dios en mi imaginaci&#243;n</l>
+            <l n="68" met="+++---+">es un cielo para m&#237;.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="69" met="+----+">si hice la oposici&#243;n</l>
+            <l n="70" met="-+-+--+">en tiempo, v&#225;lgame aqu&#237;.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="71" met="-++++-+-">Que ya todo eso ha pasado.</l>
+            <l n="72" met="+--+--+-">Vaya a la c&#225;rcel, pecado,</l>
+            <l n="73" met="---+--+">que cuando a dios le deb&#237;</l>
+            <l n="74" met="-+--+-+">tan presto cobr&#243; de m&#237;</l>
+            <l n="75" met="---+--+-">que le pagu&#233; de contado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="76" met="-+-+--+">el pleito quiero poner;</l>
+            <l n="77" met="-+-+--+">si dios me quiere esperar</l>
+            <l n="78" met="+--+--+">&#191;qu&#233; es lo que puedes hacer?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="79" met="+-+---+">dios te puede perdonar</l>
+            <l n="80" met="+--+--+">m&#225;s que le puedes deber.</l>
+            <l n="81" met="++-+--+">Yo no me meto con dios;</l>
+            <l n="82" met="-+--+-+">all&#225; os entended los dos.</l>
+            <l n="83" met="---+--+-">en su desgracia ca&#237;ste:</l>
+            <l n="84" met="+-+---+-">paga aqu&#237; lo que comiste.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="85" met="+-+--++">hombre, bienes ten&#233;is vos:</l>
+            <l part="I" n="86" met="-+++--+-">pagad.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="86" part="F" met="-+++--+-">&#191;Yo bienes, pecado?</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="87" met="-+-+--+-">&#191;pues d&#243;nde hab&#233;is escondido</l>
+            <l n="88" met="+--+-++-">muchos que dios os ha dado?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="89" met="++--+-+-">&#191;no veis que los he perdido</l>
+            <l n="90" met="--+-+-+-">y ninguno me ha quedado?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="91" met="+-+---+">&#161;Qu&#233; gentil ejecutor!</l>
+            <l n="92" met="-+-+--+">tirad, pecado, con &#233;l;</l>
+            <l n="93" met="-+-+--+">&#161;con cu&#225;n diverso rigor</l>
+            <l n="94" met="---+--+">me ejecutaba miguel</l>
+            <l n="95" met="-+----+">las deudas de su se&#241;or!</l>
+            <l n="96" met="+-+---+-">&#191;no rezaba el mandamiento</l>
+            <l n="97" met="+-+--+">m&#225;s de &#171;Qui&#233;n como dios&#187;</l>
+            <l n="98" met="---+--+-">cuando con golpe violento</l>
+            <l n="99" met="--+-+-+">que me ech&#243;, sab&#233;is los dos,</l>
+            <l n="100" met="-+----+-">del monte del testamento?</l>
+            <l n="101" met="---+--+-">pues si me quitan mi casa</l>
+            <l n="102" met="--+---+-">y mis bienes y destierran</l>
+            <l n="103" met="--++--+-">donde tal vida se pasa</l>
+            <l n="104" met="-+-+--+-">y en una casa me encierran</l>
+            <l n="105" met="---+--+-">que para siempre me abrasa,</l>
+            <l n="106" met="++----+-">&#191;es mucho que a quien me debe</l>
+            <l n="107" met="--+---+">ejecute con rigor?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="108" met="-+++-++-">La vida es plazo muy breve,</l>
+            <l n="109" met="+--+--+">dios el mayor acreedor;</l>
+            <l n="110" met="+---+-+-">haz que el alguacil me lleve</l>
+            <l n="111" met="---+--+-">donde sepamos si espera.</l>
+            <l n="112" met="-+-+--+-">primero fue su escritura:</l>
+            <l n="113" met="+--+--+-">deja pagar la primera.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="114" met="+-+-+-+-">dios espera en paz segura,</l>
+            <l n="115" met="---+--+-">ninguna cosa le altera.</l>
+            <l n="116" met="+--+--+-">Yo, que me estoy abrasando,</l>
+            <l n="117" met="++-+--+-">&#191;c&#243;mo he de estar esperando?</l>
+            <l n="118" met="+--+--+">dame el descanso de dios</l>
+            <l n="119" met="---+--+">y esperaremos los dos,</l>
+            <l n="120" met="-+-+--+-">y nunca pagues pecando.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="121" met="++----+-">&#161;Qu&#233; linda mercadur&#237;a!</l>
+            <l n="122" met="-+--+-+-">me diste palabras tales</l>
+            <l n="123" met="-+--+++-">que fueron mi muerte un d&#237;a.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="124" met="+--+--+-">&#191;Ya de las trampas te vales?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="125" met="-++-+-+-">&#191;pues no fue la deuda m&#237;a</l>
+            <l n="126" met="--+---+-">la mentira que dijiste?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I" n="127" met="+-++--+">&#191;Yo?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="127" part="F" met="+-++--+">&#191;pues qui&#233;n? &#171;come y ser&#225;s</l>
+            <l n="128" met="--+---+-">como dios&#187;; pues si mentiste</l>
+            <l n="129" met="++--+-+">&#191;qu&#233; cobras, si no me das</l>
+            <l n="130" met="--+---+-">lo que all&#237; me prometiste?</l>
+          </sp>
+          <stage>Salen la Tierra y el Tiempo.</stage>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l n="131" met="--++--+">por aqu&#237; dicen que va.</l>
+          </sp>
+          <sp who="#tiempo">
+            <speaker>TIEMPO</speaker>
+            <l n="132" met="-++-+-+">de m&#237; no se puede huir.</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l n="133" met="+-++-++">dices bien, tiempo; aqu&#237; est&#225;.</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="134" met="+-+---+">m&#225;s te vienen a pedir,</l>
+            <l n="135" met="---++-+">como te ven preso ya.</l>
+          </sp>
+          <sp who="#tiempo">
+            <speaker>TIEMPO</speaker>
+            <l n="136" met="+-+-+-+">hombre paga, el tiempo soy.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="137" met="+--+--+-">harto me pesa de verte,</l>
+            <l n="138" met="-+-+-++">mas &#191;qu&#233; te debo? aqu&#237; estoy.</l>
+          </sp>
+          <sp who="#tiempo">
+            <speaker>TIEMPO</speaker>
+            <l n="139" met="-+-+--+-">por un poder de la muerte</l>
+            <l n="140" met="-+-+--+">que yo otras veces le doy,</l>
+            <l n="141" met="+--+--+-">vengo a pedirte la vida.</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l n="142" met="+-+--++-">Yo el sustento que te he dado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="143" met="+-+---+-">tierra, &#191;t&#250; eres mi homicida?</l>
+            <l n="144" met="+-++--+-">tierra, &#191;t&#250; me has engendrado</l>
+            <l n="145" met="--+---+-">y me pides la comida?</l>
+            <l n="146" met="++----+-">&#191;soy hijo de tus entra&#241;as</l>
+            <l n="147" met="-+--+-+-">y cobras de m&#237; el sustento?</l>
+            <l n="148" met="+-+---+-">mira, tierra, que te enga&#241;as:</l>
+            <l n="149" met="+-+---+-">dios me dio por alimento</l>
+            <l n="150" met="-+----+-">tus mares y tus monta&#241;as.</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l n="151" met="+-++--+-">todo est&#225; ya rebelado</l>
+            <l n="152" met="--+++-+-">contra ti: no hay ave en viento,</l>
+            <l n="153" met="+-+-+-+-">pez en agua, en monte y prado</l>
+            <l n="154" met="--+-+-+-">animal que est&#233; contento</l>
+            <l n="155" met="-+--++-">de ser para ti cr&#239;ado.</l>
+            <l n="156" met="+-+---+-">antes todos te serv&#237;an;</l>
+            <l n="157" met="++----+-">ya todos te desaf&#237;an</l>
+            <l n="158" met="-+--+-+-">y quieren de varios modos</l>
+            <l n="159" met="-+--+-+-">de ti sustentarse todos,</l>
+            <l n="160" met="---+--+-">pues que sustento te f&#237;an.</l>
+            <l n="161" met="+--+--+-">paga, que no hay quien espere.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="162" met="++----+-">&#161;oh, b&#225;rbaros acreedores,</l>
+            <l n="163" met="+--+--+-">dios vuestras deudas prefiere!</l>
+            <l n="164" met="-+++--+-">&#191;por qu&#233; us&#225;is tantos rigores</l>
+            <l n="165" met="-+--+-+-">si dios esperarme quiere?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="166" met="+-+---+">&#161;ea!, &#191;qu&#233; es lo que aguard&#225;is?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="167" met="-+-++-+">&#161;o&#237;d, se&#241;or, vos que est&#225;is</l>
+            <l n="168" met="--+---+">en el trono de zafir!</l>
+          </sp>
+          <sp who="#pecado">
+            <speaker>PECADO</speaker>
+            <l n="169" met="--+--++">a la c&#225;rcel hab&#233;is de ir.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="170" met="-++-+-+">&#161;se&#241;or!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="170" part="F" met="-++-+-+">Vaya; &#191;qu&#233; esper&#225;is?</l>
+          </sp>
+          <stage>Desc&#250;brese un trono, y debajo de un dosel est&#225;n la Justicia y Misericordia sentados, y una mesa con recado de escribir.</stage>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="171" met="+-++-++-">&#161;hola! &#191;Qu&#233; voces son estas?</l>
+            <l n="172" met="-+-++-+-">&#191;por qu&#233; llev&#225;is ese preso?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="173" met="--+---+">&#191;pregunt&#225;is lo que sab&#233;is,</l>
+            <l n="174" met="-+--+-+-">supremo y divino teos,</l>
+            <l n="175" met="----+-+-">o desconoc&#233;is al hombre</l>
+            <l n="176" met="-+--+-+-">en tantas miserias puesto?</l>
+            <l n="177" met="---+--+-">Lo que nos debe pedimos.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="178" met="-+-+--+-">&#191;Y no pudiera prenderlo</l>
+            <l n="179" met="-+-+--+-">con menos voces al hombre</l>
+            <l n="180" met="---+--+-">y con mejor tratamiento?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="181" met="+-+-+-+">&#191;Qu&#233; mejor se le ha de hacer?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="182" met="++--+-+-">Ya quiere tu pecho tierno</l>
+            <l n="183" met="--+-+-+">defender su causa aqu&#237;.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="184" met="-+-++-+-">Justicia, yo solo quiero</l>
+            <l n="185" met="--+---+">que se trate con piedad.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="186" met="-+-+--+-">J&#252;ez divino, confieso</l>
+            <l n="187" met="--+---+-">&#8212;las rodillas por la tierra&#8212;</l>
+            <l n="188" met="---++-+-">que la mayor deuda os debo.</l>
+            <l n="189" met="---++-+-">La del demonio es enga&#241;o,</l>
+            <l n="190" met="-+----+-">y enga&#241;o tan manifiesto</l>
+            <l n="191" met="++--+-+-">que es digno de gran castigo,</l>
+            <l n="192" met="---+--+-">pues con sus trampas y enredos</l>
+            <l n="193" met="+-+---+-">solo quiso destru&#239;rme,</l>
+            <l n="194" met="---+--+-">pues si a mis locos deseos</l>
+            <l n="195" met="+-+-+-+">dio socorro alguna vez,</l>
+            <l n="196" met="+---+-+-">tales sus delitos fueron</l>
+            <l n="197" met="---+--+-">que me quitaron la gracia,</l>
+            <l n="198" met="--+-+-+-">la salud, el tiempo, el cielo</l>
+            <l n="199" met="---+--+">y me dejaron despu&#233;s</l>
+            <l n="200" met="+-+-+-+-">viento, nada, polvo, infierno.</l>
+            <l n="201" met="+-+--+">no ha hecho cosa por m&#237;</l>
+            <l n="202" met="---+-++-">sin inter&#233;s y mal hecho</l>
+            <l n="203" met="---+--+-">desde el principio del mundo</l>
+            <l n="204" met="---+--+-">el temerario logrero.</l>
+            <l n="205" met="---+--+-">Lo que la muerte me pide</l>
+            <l n="206" met="+-+-+-+-">es la vida; no la niego,</l>
+            <l n="207" met="-++-+-+-">mas no se ha cumplido el plazo,</l>
+            <l n="208" met="+--+--+-">no me ejecute sin tiempo.</l>
+            <l n="209" met="--+-+-+-">si la tierra fue mi madre,</l>
+            <l n="210" met="-+-+--+-">&#191;por qu&#233; me pide el sustento?</l>
+            <l n="211" met="+--+--+">dios se le dio para m&#237;,</l>
+            <l n="212" met="+--++-+-">bien lo sab&#233;is, Juez inmenso.</l>
+            <l n="213" met="---++-+">con mi sudor dijo dios</l>
+            <l n="214" met="----+-+-">que le comer&#237;a: &#191;excedo</l>
+            <l n="215" met="-+-+--+-">por dicha desta palabra?</l>
+            <l n="216" met="++----+-">&#191;cu&#225;l hombre, en cuantos nacieron,</l>
+            <l n="217" met="+-+---+-">le han comido sin cuidado</l>
+            <l n="218" met="---+--+-">y con descanso perfeto?</l>
+            <l n="219" met="+-+-+-+">&#191;Qu&#233; corona, qu&#233; laurel,</l>
+            <l n="220" met="+-+-+-+-">qu&#233; t&#239;ara, qu&#233; capelo</l>
+            <l n="221" met="---+--+-">desde la espada a la pluma</l>
+            <l n="222" met="----+-+-">y desde el cayado al cetro?</l>
+            <l n="223" met="-+--+-+">Y en caso que deba yo</l>
+            <l n="224" met="--+---+-">a la tierra mi sustento,</l>
+            <l n="225" met="-+----+-">descu&#233;nteseme el trabajo</l>
+            <l n="226" met="---+--+-">de cultivar su terrero,</l>
+            <l n="227" met="+--+--+-">si&#233;ntese a cuentas conmigo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="228" met="-+-+-+-">&#161;Justicia, el hombre se ha hecho</l>
+            <l n="229" met="+-+---+-">gran letrado de mentiras!</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="230" met="+--+--+-">Yo por lo menos lo creo,</l>
+            <l n="231" met="-+-+--+-">despu&#233;s que trata contigo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="232" met="---+-++-">misericordia, yo tengo</l>
+            <l n="233" met="-+----+-">mis pleitos con la Justicia;</l>
+            <l n="234" met="+-+---+-">&#191;qui&#233;n te mete con mis pleitos?</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="235" met="+-++--+">no hay aqu&#237; pleitos sin m&#237;,</l>
+            <l n="236" met="---+--+-">que de abogado me precio.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="237" met="-++---+-">de ti no, pero si el hombre</l>
+            <l n="238" met="+-+---+-">f&#237;a tanto de tu pecho</l>
+            <l part="I" n="239" met="-+-+-++-">que no me teme...</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="239" part="F" met="-+-+-++-">s&#237; teme.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="240" met="-+-+-++-">Justicia santa, s&#237; temo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="241" met="+-----+-">miente, porque en confianza</l>
+            <l n="242" met="+-+-+-+-">de &#171;hoy, ma&#241;ana, esotro, luego,</l>
+            <l n="243" met="++-++-+-">no puedo, no tengo ahora&#187;</l>
+            <l n="244" met="+---+-+-">pierde a tu justicia el miedo.</l>
+            <l n="245" met="++-+--+-">Ya t&#250; conoces sus trampas.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l part="I" n="246" met="+-+--++-">&#161;hombre, paga!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="246" part="F" met="+-+--++-">pagar quiero.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="247" met="-+-+--+-">Los bienes le han secrestado.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="248" met="+-++--+-">s&#237;, mas no son de provecho,</l>
+            <l n="249" met="+-+---+">y es delito criminal</l>
+            <l n="250" met="---+--+-">de tu justicia esconderlo.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="251" met="+-+---+-">sol divino que descubres</l>
+            <l n="252" met="--+---+-">del oculto pensamiento</l>
+            <l n="253" met="-+--+-+-">los &#225;tomos m&#225;s humildes,</l>
+            <l n="254" met="-+++-++-">se&#241;or, no puedo ser preso</l>
+            <l n="255" met="+---+-+-">siendo, como soy, hidalgo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="256" met="+-+---+-">&#161;buen hidalgo sin ag&#252;elo!</l>
+            <l n="257" met="+++---+">&#161;oh, qu&#233; linda alegaci&#243;n!</l>
+            <l n="258" met="+-++--+-">&#191;no sab&#233;is vos que en perdiendo</l>
+            <l n="259" met="-+--+-+">la gracia tambi&#233;n perdi&#243;</l>
+            <l part="I" n="260" met="--+-+-+-">la nobleza?</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="260" part="F" met="--+-+-+-">paso, quedo,</l>
+            <l n="261" met="-+--+-+-">que alg&#250;n descendiente suyo</l>
+            <l n="262" met="--+-+-+-">se pondr&#225; la cruz al pecho.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="263" met="+--+--+-">antes ser&#225; a las espaldas</l>
+            <l n="264" met="-+----+-">en forma de vituperio.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="265" met="+++-+-+-">no habr&#225; cosa m&#225;s gloriosa</l>
+            <l part="I" n="266" met="+-+--++-">que esa afrenta.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="266" part="F" met="+-+--++-">ser&#225; cierto,</l>
+            <l n="267" met="--+-+-+-">pero yo entretanto al hombre,</l>
+            <l n="268" met="---+--+-">para que pague, le entrego</l>
+            <l n="269" met="--+---+-">al tirano de la iglesia.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="270" met="-+-++++-">&#161;piedad, se&#241;or!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="270" part="F" met="-+-++++-">esto es hecho.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l part="I" n="271" met="+-+-+-+-">Ya es tu esclavo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="271" part="F" met="+-+-+-+-">dios lo dice;</l>
+            <l n="272" met="++--+-+-">venga una cadena luego.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="273" met="+--+--+-">&#191;esto podiste, Justicia?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="274" met="---+--+-">misericordia, cobremos</l>
+            <l n="275" met="--+-+-+">lo que debe el hombre a dios.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="276" met="+-+-+-+-">siendo dios, como es, inmenso,</l>
+            <l part="I" n="277" met="++--++-">&#191;qui&#233;n le ha de pagar?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="277" part="F" met="++--++-">cierra</l>
+            <l part="I" n="278" met="---++-+-">el tribunal.</l>
+          </sp>
+          <stage>Ci&#233;rrase todo.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="278" part="F" met="---++-+-">muerto quedo.</l>
+            <l n="279" met="---++-+-">misericordia, &#191;es posible</l>
+            <l n="280" met="--+-+-+-">que se me ha cerrado el cielo?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="281" met="-+-+-++-">camina, perro, que hoy haces</l>
+            <l part="I" n="282" met="--+-+-+-">dejaci&#243;n de bienes.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="282" part="F" met="--+-+-+-">&#191;perro</l>
+            <l part="I" n="283" met="-+-+--+-">me llamas?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="283" part="F" met="-+-+--+-">eres mi esclavo.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="284" met="+-+++-+-">soy de dios.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="284" part="F" met="+-+++-+-">Yo soy tu due&#241;o.</l>
+          </sp>
+          <stage>Vanse y sale el Pr&#237;ncipe divino.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="285" met="--+--+-">entre todos los vicios</l>
+            <l n="286" met="+----+---+-">eres, ingratitud, inescrutable.</l>
+            <l n="287" met="++---+-">&#161;oh, cu&#225;ntos beneficios</l>
+            <l n="288" met="+--+-+---+-">debe a mi padre el hombre miserable!</l>
+            <l n="289" met="++++-+-">&#161;oh, cu&#225;n mal le ha pagado,</l>
+            <l n="290" met="-+-+-+--++-">ingrato, a dios los bienes que le ha dado!</l>
+            <l n="291" met="-+---+-">en vez de agradecerle</l>
+            <l n="292" met="--+--+---+-">levantarle del polvo de la tierra</l>
+            <l n="293" met="--+--+-">y a su imagen hacerle</l>
+            <l n="294" met="--++---+-+-">con las tres partes que en el alma encierra,</l>
+            <l n="295" met="-+---+-">responde con ofensas,</l>
+            <l n="296" met="-+-+-+-+-+-">que ser inmenso dios las hace inmensas.</l>
+            <l n="297" met="++-+-+-">&#191;Qu&#233; no le dio mi padre?</l>
+            <l n="298" met="+++--+--++-">&#191;Qu&#233; no hizo por &#233;l desde aquel d&#237;a</l>
+            <l n="299" met="--+--+-">que la tierra su madre</l>
+            <l n="300" met="-+---+---+-">pis&#243; con la inocencia que ten&#237;a?</l>
+            <l n="301" met="+++-+-">&#191;Qu&#233; no cr&#239;&#243; en su nombre?</l>
+            <l n="302" met="-++--+-+-+-">crey&#243; m&#225;s la mujer que a dios el hombre.</l>
+            <l n="303" met="+-+--+-">&#191;c&#243;mo no conociste,</l>
+            <l n="304" met="-+-+-++--+-">dispuesto a tanto error, hombre imprudente,</l>
+            <l n="305" met="-+---+-">los bienes que perdiste</l>
+            <l n="306" met="-+---+---+-">por ser a su precepto inobediente?</l>
+            <l n="307" met="+++--+-">&#161;oh, cu&#225;n largos enojos</l>
+            <l n="308" met="-+---+---+-">nacieron del enga&#241;o de tus ojos!</l>
+          </sp>
+          <stage>Sale el Cuidado con una carta.</stage>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="309" met="+---+-+-">puesto la rodilla en tierra,</l>
+            <l n="310" met="++----+-">oh pr&#237;ncipe generoso,</l>
+            <l n="311" met="-+-+--+-">en cuyo pecho amoroso</l>
+            <l n="312" met="--+-+-+-">vuestro padre eterno encierra</l>
+            <l n="313" met="--+---+-">el tesoro soberano</l>
+            <l n="314" met="---+--+-">de su poder, y de modo,</l>
+            <l n="315" met="-+--+-+-">se&#241;or, que lo puso todo</l>
+            <l n="316" met="----+-+-">en vuestra piadosa mano</l>
+            <l n="317" met="---+--+">como divino esplendor</l>
+            <l n="318" met="--++--+">de su gloria, este papel</l>
+            <l n="319" met="---+--+">desde la c&#225;rcel cr&#252;el,</l>
+            <l n="320" met="--+---+">desde el &#250;ltimo rigor,</l>
+            <l n="321" met="---+--+-">desde el aliento postrero</l>
+            <l n="322" met="-+-+--+-">el hombre preso os env&#237;a,</l>
+            <l n="323" met="---+--+-">donde de noche y de d&#237;a</l>
+            <l n="324" met="-+--+-+-">padece dolor tan fiero.</l>
+            <l n="325" met="----+-+-">desde lo profundo os llama,</l>
+            <l n="326" met="---+--+-">que como no satisfizo</l>
+            <l n="327" met="--+-+-+-">dejaci&#243;n de bienes hizo:</l>
+            <l n="328" met="-+--+-+-">as&#237; la pobreza infama.</l>
+            <l n="329" met="--+--++-">por esclavo se le ha dado</l>
+            <l n="330" met="--+-+-+">la Justicia, gran se&#241;or,</l>
+            <l n="331" met="--+---+">al demonio su acreedor</l>
+            <l n="332" met="-+-+--+-">despu&#233;s de haber alegado</l>
+            <l n="333" met="+-+---+">que era hidalgo, por haber</l>
+            <l n="334" met="--+---+-">encubierto la hidalgu&#237;a</l>
+            <l n="335" met="--+-+-+-">de la deuda el mismo d&#237;a,</l>
+            <l n="336" met="-+-+--+">pues no le puede valer.</l>
+            <l n="337" met="-+---+-">ac&#250;denle acreedores</l>
+            <l n="338" met="++----+-">que es l&#225;stima, los amigos</l>
+            <l n="339" met="-+----+-">le dejan, los enemigos</l>
+            <l n="340" met="+--+--+-">son por instantes mayores.</l>
+            <l n="341" met="-+-+--+">dol&#233;os, pr&#237;ncipe, d&#233;l.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="342" met="---++-+-">&#191;Que por su culpa ha llegado</l>
+            <l n="343" met="-+--+-+-">el hombre a tan triste estado?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="344" met="+--+--+">bien lo sabr&#233;is del papel,</l>
+            <l n="345" met="--+--++-">aunque bien lo sab&#233;is todo;</l>
+            <l n="346" met="--++-++">pero muy bien sab&#233;is vos</l>
+            <l n="347" met="-+-+--+">que suele el hombre con dios</l>
+            <l n="348" met="-+--+-+-">usar del humano modo.</l>
+          </sp>
+          <stage>Lea.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="349" met="---+---+-+-">&#171;en el papel de mi confusa vida,</l>
+            <l n="350" met="+--+---+-+-">d&#225;ndome tinta mis cansados ojos,</l>
+            <l n="351" met="+--+-+---+-">pluma el dolor, a ti &#8212;de mis enojos</l>
+            <l n="352" met="-+-++--+-+-">remedio y luz ya por mi mal perdida&#8212;</l>
+            <l n="353" met="---+-+---+-">con mi cuidado escribo que te pida</l>
+            <l n="354" met="---+--++-+-">que consideres de qui&#233;n soy despojos,</l>
+            <l n="355" met="+--+---+-+-">siendo tu hechura, aunque el sentir antojos</l>
+            <l n="356" met="---+-+---+-">de tu divina cara me despida.</l>
+            <l n="357" met="+-+--+---+-">cesen ya tus enojos y desdenes,</l>
+            <l n="358" met="-+-+-+-+-+-">que no me olvido yo si en ti conf&#237;o</l>
+            <l n="359" met="---+---+-+-">de la piedad y del poder que tienes,</l>
+            <l n="360" met="-+-+++---+-">ni puedo hacer &#8212;que es loco desvar&#237;o,</l>
+            <l n="361" met="---+---+-+-">aunque lo dicen&#8212; dejaci&#243;n de bienes,</l>
+            <l n="362" met="-+-+-++-++-">pues no te dejo a ti, solo bien m&#237;o&#187;.</l>
+            <l n="363" met="+-+++-+">&#161;ay, que me ha dado un dolor</l>
+            <l n="364" met="----+-+-">en el coraz&#243;n, cuidado!</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l part="I" n="365" met="-+-+--+-">&#191;dolor?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="365" part="F" met="-+-+--+-">dolor de costado,</l>
+            <l n="366" met="+--+--+">que es donde tengo el amor.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="367" met="-+--+-+">&#191;ahora, se&#241;or? &#191;de qu&#233;?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="368" met="+--+-++">desta palabra no m&#225;s.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="369" met="+-+-+-+">&#191;de un papel tan tierno est&#225;s?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="370" met="+---+-+">Flecha en mis entra&#241;as fue.</l>
+            <l n="371" met="++-++-+-">&#191;Qu&#233; piedra, qu&#233; m&#225;rmol fr&#237;o</l>
+            <l n="372" met="+---+-+">no se enterneciera aqu&#237;:</l>
+            <l n="373" met="--+-+-+">&#171;pues que no te dejo a ti,</l>
+            <l n="374" met="+-++-++-">que eres t&#250; solo bien m&#237;o&#187;?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="375" met="--+-+-+">&#161;ah nobleza, al fin, de dios,</l>
+            <l n="376" met="-++---+">que no hay m&#225;s que encarecer!</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="377" met="-+--+-+">si no me quer&#233;is perder,</l>
+            <l n="378" met="+-+-+-+">hombre, yo tampoco a vos.</l>
+            <l n="379" met="+--+--+-">presto os dar&#225;n parabienes</l>
+            <l n="380" met="---+--+">de vuestros bienes tambi&#233;n,</l>
+            <l n="381" met="--+++-+">y si yo soy vuestro bien,</l>
+            <l n="382" met="++--+-+-">no hag&#225;is dejaci&#243;n de bienes.</l>
+            <l n="383" met="+-++--+-">&#161;oh, palabra, oh poder&#237;o</l>
+            <l n="384" met="-++-+-+">de amor siempre grande en m&#237;!</l>
+            <l n="385" met="--+-+-+">&#171;pues que no te dejo a ti,</l>
+            <l n="386" met="+-++-++-">que eres t&#250; solo bien m&#237;o&#187;.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="387" met="++-+--+">esta es la c&#225;rcel, se&#241;or.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l part="I" n="388" met="+---+++-">Llama, pues.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="388" part="F" met="+---+++-">aqu&#237; est&#225; el hombre.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="389" met="+-+-+-+-">&#161;Que &#233;l de preso tenga nombre</l>
+            <l n="390" met="--+-+-+">cuando yo lo estoy de amor!</l>
+          </sp>
+          <stage>Una reja muy ancha y el Hombre detr&#225;s.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="391" met="+-+-+-+-">hombre, amigo, &#191;qu&#233; es aquesto?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="392" met="++----+">&#161;oh pr&#237;ncipe celestial!</l>
+            <l n="393" met="+--+--+">deudas y poco caudal</l>
+            <l n="394" met="-+--+++-">en este rigor me han puesto.</l>
+            <l n="395" met="+--+--+">&#191;Vos a la c&#225;rcel, se&#241;or?</l>
+            <l n="396" met="+-+--++-">&#191;Vos a verme, se&#241;or m&#237;o?</l>
+            <l n="397" met="--+---+-">&#191;mereci&#243; mi desvar&#237;o</l>
+            <l n="398" met="-+-+--+">jam&#225;s tan alto favor?</l>
+            <l n="399" met="++----+-">&#161;Qu&#233; prueba de la nobleza</l>
+            <l n="400" met="-+-+--+">de dios mayor que la de hoy,</l>
+            <l n="401" met="---+--+">cuando en la c&#225;rcel estoy</l>
+            <l n="402" met="+--+--+-">puesto en la suma pobreza!</l>
+            <l n="403" met="+-+---+-">todos me han desamparado</l>
+            <l n="404" met="+--+--+">vi&#233;ndome en tanto dolor;</l>
+            <l n="405" met="---+--+">hasta mis vicios, se&#241;or,</l>
+            <l n="406" met="-+--+-+-">parece que me han dejado.</l>
+            <l n="407" met="+---+-+">m&#237;rame el demonio aqu&#237;</l>
+            <l part="I" n="408" met="----+--+-+--+-">como a quien tiene en desprecio.</l>
+            <l n="408" part="F" met="----+--+-+--+-">texto del auto</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="409" met="-+-++-+-">&#191;ans&#237;? &#191;pues no sabe el necio</l>
+            <l n="410" met="--+-+-+">el amor que vive en m&#237;</l>
+            <l n="411" met="----+-+">y que si la c&#225;rcel es</l>
+            <l n="412" met="+--+-++">prueba de amigos, yo soy</l>
+            <l part="I" n="413" met="-+-+--+">tu amigo?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="413" part="F" met="-+-+--+">gracias os doy</l>
+            <l n="414" met="-+-+--+">y beso no vuestros pies</l>
+            <l n="415" met="---+--+">sino la tierra, que aun soy</l>
+            <l n="416" met="+-+--++">della indigno por tal bien.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="417" met="++----+">&#191;Qu&#233; har&#233; para que te den</l>
+            <l n="418" met="--+-+-+">libertad tus deudas hoy?</l>
+            <l n="419" met="+---+-+">&#191;Quieres que me quede aqu&#237;?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="420" met="+-+-+-+">&#161;ay, se&#241;or, que no es raz&#243;n,</l>
+            <l n="421" met="--+-+-+">si las deudas m&#237;as son,</l>
+            <l n="422" met="-+--+-+">que vos las pagu&#233;is por m&#237;!</l>
+            <l n="423" met="++-++-+-">Vos preso y yo libre fuera</l>
+            <l n="424" met="+-+---+-">una cosa que admirara</l>
+            <l part="I" n="425" met="-+-+--+-">la tierra.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="425" part="F" met="-+-+--+-">no se espantara,</l>
+            <l n="426" met="--+-+-+-">si mi grande amor supiera.</l>
+            <l n="427" met="++--+-+-">t&#250; dices que soy tus bienes</l>
+            <l n="428" met="--++--+-">y que no quieres dejarme,</l>
+            <l n="429" met="-+++--+-">y ans&#237; yo quiero preciarme</l>
+            <l n="430" met="----+-+-">de que por tu bien me tienes</l>
+            <l n="431" met="-+---++">y no te dejar&#233; a ti;</l>
+            <l n="432" met="+-+---+">que &#8212;&#161;ay de ti!&#8212; sin ocasi&#243;n</l>
+            <l n="433" met="+-+---+">dios hiciera dejaci&#243;n</l>
+            <l n="434" met="--+-+-+">de los bienes que hay en ti.</l>
+            <l n="435" met="+---+-+-">&#161;ah, del tribunal supremo!</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="436" met="-+-+-++-">La voz del pr&#237;ncipe es esta.</l>
+          </sp>
+          <stage>Desc&#250;brese el tribunal como antes.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="437" met="-+--+-+-">Justicia, aunque est&#225;is dispuesta</l>
+            <l n="438" met="--+-+-+-">a seguir por todo estremo</l>
+            <l n="439" met="---+--+-">vuestro rigor con el hombre,</l>
+            <l n="440" met="+-++--+-">demos un medio que sea</l>
+            <l n="441" met="-+----+-">conforme a lo que desea</l>
+            <l n="442" met="--+---+-">la equidad de vuestro nombre.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="443" met="-+--+-+-">Lo mismo le estoy rogando.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="444" met="++--+-+">&#191;Qu&#233; medio se puede dar,</l>
+            <l n="445" met="--++--+">pues a dios se ha de pagar?</l>
+            <l n="446" met="-+-++-+-">decid: &#191;de qu&#233; modo y cu&#225;ndo?</l>
+            <l n="447" met="++---+">bien veis que el acreedor</l>
+            <l part="I" n="448" met="+--++-+">es infinito.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="448" part="F" met="+--++-+">es ans&#237;;</l>
+            <l n="449" met="+++-+-+">yo soy hijo, y siempre fui</l>
+            <l part="I" n="450" met="-+-++-+">tan dios como &#233;l.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="450" part="F" met="-+-++-+">s&#237;, se&#241;or.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l part="I" n="451" met="+-+++-+">soy su igual.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="451" part="F" met="+-+++-+">Vos sois su igual:</l>
+            <l n="452" met="---+--+-">ni en la grandeza os excede,</l>
+            <l n="453" met="----+-+-">ni en la eternidad precede,</l>
+            <l n="454" met="---+--+">ni en el poder celestial.</l>
+            <l n="455" met="---+--+">La eternidad en el ser,</l>
+            <l n="456" met="---+--+-">la inmensidad en la alteza</l>
+            <l n="457" met="---+--+-">de vuestra excelsa grandeza,</l>
+            <l n="458" met="--+---+">la virtud en el poder</l>
+            <l n="459" met="+--+--+">tienen la misma igualdad</l>
+            <l n="460" met="-+----+-">respeto al conocimiento</l>
+            <l n="461" met="--+---+-">del humano entendimiento,</l>
+            <l n="462" met="------+">porque como la bondad</l>
+            <l n="463" met="---++-+-">de vuestro padre es la fuente,</l>
+            <l n="464" met="+-+---+">sois de aquella emanaci&#243;n</l>
+            <l n="465" met="--+---+">de divina perfecci&#243;n</l>
+            <l n="466" met="+--+-++-">hijo engendrado igualmente.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="467" met="--+-+-+">pues, Justicia, siendo ans&#237;,</l>
+            <l n="468" met="--++--+">&#191;bastar&#233; yo por fiador</l>
+            <l part="I" n="469" met="+-+-+-+">desta deuda?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="469" part="F" met="+-+-+-+">s&#237;, se&#241;or.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="470" met="-+-+--+">sacad el hombre de all&#237;.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="471" met="+++---+">&#161;oh, bien haya tu piedad!</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l part="I" n="472" met="-++-+-+-">&#191;est&#225;s muy contento?</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="472" part="F" met="-++-+-+-">mucho.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l part="I" n="473" met="+-++-++-">hombre, sal libre.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="473" part="F" met="+-++-++-">&#191;Qu&#233; escucho?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="474" met="-++---+">Que ya tienes libertad.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="475" met="++--+-+">&#191;Qu&#233; plazo, se&#241;or, tom&#225;is</l>
+            <l n="476" met="---++-+-">para pagar tantos da&#241;os?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="477" met="-+-+-++-">Justicia, treinta y tres a&#241;os.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="478" met="-++---+">a gran cosa os oblig&#225;is.</l>
+            <l n="479" met="-+-+--+-">Venid a hacer la escritura</l>
+            <l part="I" n="480" met="-+-+-++">los dos.</l>
+          </sp>
+          <stage>Sale el Hombre ya libre.</stage>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="480" part="F" met="-+-+-++">el hombre est&#225; aqu&#237;.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="481" met="++-++-+">dame esos pies.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="481" part="F" met="++-++-+">Ya te di</l>
+            <l part="I" n="482" met="---++++-">el coraz&#243;n.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="482" part="F" met="---++++-">Luz m&#225;s pura</l>
+            <l n="483" met="-+-+--+-">que el sol, imagen divina</l>
+            <l n="484" met="--+-+-+">de tu padre, &#191;qu&#233; dir&#233;</l>
+            <l n="485" met="---++-+">de tu piedad? &#191;Qu&#233; dar&#233;</l>
+            <l part="I" n="486" met="--+-+-+-">a tu amor?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="486" part="F" met="--+-+-+-">La vista inclina</l>
+            <l n="487" met="--+---+">al supremo tribunal;</l>
+            <l n="488" met="+--+--+-">sube conmigo y haremos</l>
+            <l part="I" n="489" met="+--+-++-">esta escritura.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="489" part="F" met="+--+-++-">&#161;Qu&#233; estremos</l>
+            <l n="490" met="-+-+--+">de amor! &#161;piedad celestial!</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="491" met="+-+---+">sube t&#250; como deudor</l>
+            <l n="492" met="---+--+">a los estrados que ves,</l>
+            <l n="493" met="-+--+-+">amigo, que yo despu&#233;s</l>
+            <l n="494" met="--+---+">bajar&#233; como fiador.</l>
+          </sp>
+          <stage>Suben al tribunal adonde la Justicia hace que escribe, y sale el Demonio.</stage>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="495" met="+-+---+-">&#161;Fuera digo! &#191;sin pagarme</l>
+            <l n="496" met="+-+---+">saca dios de la prisi&#243;n</l>
+            <l n="497" met="-+--+-+">al hombre? &#161;gentil raz&#243;n!</l>
+            <l n="498" met="+-+-+-+-">&#191;c&#243;mo puede dios quitarme</l>
+            <l n="499" met="--+-+-+-">mi derecho a m&#237;, ni darme</l>
+            <l n="500" met="---++-+-">satisfacci&#243;n? no la quiero,</l>
+            <l n="501" met="+-+---+-">denme luego mi dinero.</l>
+            <l n="502" met="++-+--+-">&#191;Qu&#233; ley o qu&#233; barbarismo</l>
+            <l n="503" met="++-+--+-">es este? &#161;Vive el abismo</l>
+            <l n="504" met="+--+--+-">que he de cobrarlo del hombre</l>
+            <l n="505" met="---++-+-">aunque de dios tenga el nombre</l>
+            <l n="506" met="---+-++-">y se juntase a dios mismo!</l>
+            <l n="507" met="+--+--+-">&#191;d&#225;mele a m&#237; la Justicia</l>
+            <l n="508" met="--+-+-+">por esclavo y quiere dios</l>
+            <l n="509" met="---+--+">que se concierten los dos?</l>
+            <l n="510" met="+-+++-+-">&#191;no se ve que esto es malicia?</l>
+            <l n="511" met="-++-+-+-">&#191;de qu&#233; tiene dios codicia?</l>
+            <l n="512" met="+-+---+-">&#191;Qu&#233; le dan por la f&#239;anza?</l>
+            <l n="513" met="-++-+-+-">pues ya sabe d&#243;nde alcanza</l>
+            <l n="514" met="--++--+">mi poder. &#161;cielos, o&#237;d!</l>
+            <l n="515" met="-+++--+">sa&#250;l soy de ese david</l>
+            <l n="516" met="----+-+-">y le arrojar&#233; mi lanza.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="517" met="+-+-+-+-">&#161;no des voces! &#161;calla, fiero!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="518" met="+--++-+-">ese, cuidado, es mi nombre;</l>
+            <l n="519" met="-+-++-+-">&#161;si tanto dios quiere al hombre,</l>
+            <l n="520" met="+--+--+-">p&#225;gueme aqu&#237; mi dinero!</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="521" met="+--+--+-">dicen que fuiste logrero.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="522" met="+-++--+-">mienten, que un hora segura</l>
+            <l part="I" n="523" met="-++-+--+-+-">a&#250;n no logr&#233; mi ventura;</l>
+            <l n="523" part="F" met="-++-+--+-+-">ueda</l>
+            <l n="524" met="--+-+-+">pues &#191;de qu&#233; logrero soy</l>
+            <l n="525" met="++-+--+">si ha tantos a&#241;os que estoy</l>
+            <l n="526" met="-+-+--+-">sin dios en c&#225;rcel tan dura?</l>
+            <l n="527" met="+--+--+-">&#191;Qu&#233; es lo que est&#225;n escribiendo?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l part="I" n="528" met="--+-+-+-">La f&#239;anza.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="528" part="F" met="--+-+-+-">&#191;Qui&#233;n le f&#237;a?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="529" met="+-++--+-">dios, que dios solo pod&#237;a.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I" n="530" met="++-++-+-">&#191;dios f&#237;a?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="530" part="F" met="++-++-+-">Ya est&#225;n leyendo.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l part="I" n="531" met="-+++-+-">o&#237;d...</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="531" part="F" met="-+++-+-">Ya estoy oyendo.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="532" met="---++-+">...que os oblig&#225;is, gran se&#241;or,</l>
+            <l n="533" met="----+-+">como principal deudor</l>
+            <l n="534" met="--++--+">aunque vos no lo deb&#233;is</l>
+            <l n="535" met="---+--+">a padecerlo, y ser&#233;is...</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="536" met="+-+-+-+">&#191;hase visto tanto amor?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="537" met="--++-++-">&#8230;desde aqu&#237; a treinta y tres a&#241;os</l>
+            <l part="I" n="538" met="---+-++-">ejecutado.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="538" part="F" met="---+-++-">s&#237; obligo.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="539" met="+-+-+-+-">cielo, sed aqu&#237; testigo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="540" met="+---+-+-">&#161;casos por el cielo estra&#241;os!</l>
+            <l n="541" met="+-+-+-+-">&#191;a&#250;n faltaban estos da&#241;os</l>
+            <l part="I" n="542" met="---+--+">a mi desdicha?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="542" part="F" met="---+--+">Firmad.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l part="I" n="543" met="+--+--+">Firmo.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="543" part="F" met="+--+--+">notable piedad.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="544" met="+-++--+-">hoy ser&#233;is, &#225;ngeles bellos,</l>
+            <l part="I" n="545" met="-+--+-+-">testigos.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="545" part="F" met="-+--+-+-">Y yo con ellos</l>
+            <l n="546" met="++----+">doy gracias a tu bondad.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="547" met="+--+--+-">Voyme a pedir a los hombres</l>
+            <l part="I" n="548" met="-+--+-+-">albricias.</l>
+          </sp>
+          <stage>Ci&#233;rrase todo.</stage>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="548" part="F" met="-+--+-+-">Y yo al infierno,</l>
+            <l n="549" met="----+-+-">adonde con llanto eterno</l>
+            <l n="550" met="+--+--+-">doblen mis penas sus nombres.</l>
+            <l n="551" met="+-+-+-+-">cielo injusto, no te asombres</l>
+            <l n="552" met="--+---+-">si dijere desatinos,</l>
+            <l n="553" met="---+--+-">pues por tan varios caminos</l>
+            <l n="554" met="+-+---+-">hoy las manos soberanas</l>
+            <l n="555" met="+--+--+-">pagan las deudas humanas</l>
+            <l n="556" met="---+--+-">con los tesoros divinos.</l>
+            <l n="557" met="+-+-+-+-">&#191;Qu&#233; poder el cielo encierra,</l>
+            <l n="558" met="-+--+-+">ni el hombre que en &#233;l se ve,</l>
+            <l n="559" met="---+-++">para estorbar que de un pie</l>
+            <l n="560" met="+--+--+-">no le derribe a la tierra?</l>
+            <l n="561" met="--+-+-+-">mover&#233; segunda guerra</l>
+            <l n="562" met="-+-+--+-">al cielo, a dios y mi nombre</l>
+            <l n="563" met="-+--+-+-">pondr&#233; donde el sol asombre.</l>
+            <l n="564" met="+--+--+">Voy a juntar mi escuadr&#243;n,</l>
+            <l n="565" met="--+-+++">porque sepa dios qui&#233;n son</l>
+            <l n="566" met="---+--+-">los acreedores del hombre.</l>
+          </sp>
+          <stage>Vanse y sale el Cuidado y el Agradecimiento.</stage>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="567" met="+-++--+">no ten&#233;is qu&#233; me decir,</l>
+            <l n="568" met="-++-+-+-">que no tengo yo la culpa.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="569" met="-+--+-+-">&#191;par&#233;cete que es disculpa</l>
+            <l part="I" n="570" met="-+++--+">servir?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="570" part="F" met="-+++--+">&#191;Qu&#233; m&#225;s que servir?</l>
+            <l n="571" met="+-+---+">Yo obedezco a mi se&#241;or,</l>
+            <l n="572" met="-+-++-+-">dem&#225;s que oficio he mudado.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="573" met="-+-+--+-">&#191;pues no eres t&#250; su cuidado?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="574" met="+-+---+">hijo fui de su temor,</l>
+            <l n="575" met="--+---+-">pero ya, agradecimiento,</l>
+            <l n="576" met="--+---+">en descuido me troc&#243;;</l>
+            <l n="577" met="-+--+-+">descuido me llamo yo.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="578" met="+--+--+-">bien descuidado le siento.</l>
+            <l n="579" met="-+-+--+-">en fin, descuido te llamas</l>
+            <l n="580" met="+---+-+-">t&#250; que su cuidado fuiste,</l>
+            <l n="581" met="-++-+-+-">y aqu&#237; el hombre ingrato asiste</l>
+            <l n="582" met="--+-+-+-">en convites, juego y damas.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="583" met="--+-+-+">como tiene buen fiador,</l>
+            <l n="584" met="-++--++-">&#161;pardiez!, no se le da nada.</l>
+            <l n="585" met="--++--+-">La raci&#243;n tengo doblada;</l>
+            <l n="586" met="+--+--+">yo como y duermo mejor</l>
+            <l n="587" met="--+---+-">que cuando era su cuidado,</l>
+            <l n="588" met="---+-++-">que cuando no hay alg&#250;n vicio</l>
+            <l n="589" met="+-+---+-">pocas veces sin oficio</l>
+            <l n="590" met="+-++-+-">medra el m&#225;s viejo cr&#239;ado.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="591" met="+--+--+-">&#191;c&#243;mo te traes el vestido</l>
+            <l n="592" met="----+-+-">que cuando cuidado fuiste?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="593" met="--+--+-">porque el cr&#239;ado consiste</l>
+            <l n="594" met="-+--+-+-">en un esterior fingido.</l>
+            <l n="595" met="++-+--+">es linda cosa traer</l>
+            <l n="596" met="+-+-+-+-">piel de oveja siendo lobo</l>
+            <l n="597" met="---+--+-">para que el vicio y el robo</l>
+            <l n="598" met="+-+---+">no se puedan conocer.</l>
+            <l n="599" met="+-----+-">&#193;ndome con el vestido</l>
+            <l n="600" met="-+-+--+-">que truje siendo cuidado,</l>
+            <l n="601" met="+--+-++-">y es el descuido en que ha dado</l>
+            <l n="602" met="--+-+-+-">que por &#233;l de dios me olvido.</l>
+            <l n="603" met="-+----+-">con capa de virt&#252;osos</l>
+            <l n="604" met="-+----+-">haci&#233;ndose mojigatos</l>
+            <l n="605" met="-+++--+-">ver&#225;s mil hombres ingratos</l>
+            <l n="606" met="---+--+-">en lo secreto viciosos.</l>
+            <l n="607" met="-+---++-">ap&#225;rtate, que ya sale;</l>
+            <l n="608" met="-+--+-+">olv&#237;date t&#250; tambi&#233;n.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="609" met="-++---+">ser&#233; ejemplo si me ven.</l>
+          </sp>
+          <stage>Sale el Hombre, la Vanidad y la Locura.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="610" met="++--+-+-">no hay gusto que al vuestro iguale.</l>
+            <l n="611" met="+++---+">&#161;Qu&#233; hermosa es la Vanidad!</l>
+            <l n="612" met="+++---+-">&#161;Qu&#233; bien canta la Locura!</l>
+          </sp>
+          <sp who="#vanidad">
+            <speaker>VANIDAD</speaker>
+            <l n="613" met="+--+--+-">solo agradarte procura</l>
+            <l n="614" met="--+---+">mi rendida voluntad.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="615" met="-+-+--+-">si gasta en esto su hacienda,</l>
+            <l part="I" n="616" met="++--+++">&#191;c&#243;mo ha de pagar?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="616" part="F" met="++--+++">no s&#233;.</l>
+          </sp>
+          <sp who="#locura">
+            <speaker>LOCURA</speaker>
+            <l n="617" met="---+--+">aunque al descuido, pas&#233;</l>
+            <l n="618" met="--+-+-+-">anteayer por una tienda</l>
+            <l n="619" met="-+-+--+-">y vi una tela famosa:</l>
+            <l n="620" met="++-+--+-">hazme un vestido bordado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="621" met="-+++-+-">Locura, hoy la he sacado</l>
+            <l n="622" met="-+-+--+-">por todo estremo vistosa.</l>
+          </sp>
+          <sp who="#vanidad">
+            <speaker>VANIDAD</speaker>
+            <l n="623" met="+-+---+-">haz poner en las varillas</l>
+            <l n="624" met="-+-+--+-">en vez de clavos, diamantes.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="625" met="+--+--+-">t&#250; los ver&#225;s tan brillantes</l>
+            <l n="626" met="+-+---+-">que echen rayo las orillas.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="627" met="-+-++-+-">&#191;de d&#243;nde el hombre ha sacado</l>
+            <l part="I" n="628" met="+--+--+-">esto que gasta?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="628" part="F" met="+--+--+-">escondido</l>
+            <l n="629" met="+---+-+-">tuvo hasta el menor sentido.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="630" met="++-+--+-">no puede ser enga&#241;ado,</l>
+            <l n="631" met="-+--+++">descuido, el fiador que es dios.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="632" met="+---+-+">calla, que se quieren ir</l>
+            <l n="633" met="-+--+-+">y t&#250; le podr&#225;s re&#241;ir</l>
+            <l n="634" met="--++--+">cuando est&#233;is solos los dos.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="635" met="-+-+--+">&#191;tan presto os vais, Vanidad?</l>
+          </sp>
+          <sp who="#vanidad">
+            <speaker>VANIDAD</speaker>
+            <l n="636" met="+-+-+-+">no me voy; contigo estoy.</l>
+          </sp>
+          <sp who="#locura">
+            <speaker>LOCURA</speaker>
+            <l n="637" met="-+-+--+">ni yo tampoco me voy,</l>
+            <l n="638" met="++----+">&#161;oh rey de mi voluntad!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="639" met="-++---+-">ten&#233;is tantos que os estimen</l>
+            <l n="640" met="----+-+-">que para cumplir con todos</l>
+            <l n="641" met="++--+-+-">es fuerza que us&#233;is de modos</l>
+            <l n="642" met="---+--+-">que con los celos lastimen.</l>
+            <l n="643" met="+-++--+">id en buen hora, y volved</l>
+            <l n="644" met="--+---+-">cuando fu&#233;redes servidos,</l>
+            <l n="645" met="--++--+-">que ser&#233;is bien recebidos.</l>
+          </sp>
+          <sp who="#locura">
+            <speaker>LOCURA</speaker>
+            <l n="646" met="+---+-+">siempre nos har&#233;is merced.</l>
+          </sp>
+          <stage>Vanse los dos.</stage>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="647" met="+---+-+-">hu&#233;lgome que se hayan ido,</l>
+            <l n="648" met="------+-">porque el agradecimiento</l>
+            <l part="I" n="649" met="+-+---+-">viene a hablarte.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="649" part="F" met="+-+---+-">atrevimiento</l>
+            <l n="650" met="--+-+++-">de tu corto ingenio ha sido.</l>
+            <l n="651" met="+---+-+">&#191;h&#237;cete descuido yo</l>
+            <l n="652" met="---+--+">porque cuidado me des</l>
+            <l n="653" met="----+-+">o porque a la puerta est&#233;s?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="654" met="++-++-+">&#191;Qu&#233; pude hacer? &#161;&#201;l se entr&#243;!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="655" met="+-+---+-">solamente los se&#241;ores</l>
+            <l n="656" met="+-+-+-+-">pueden ya deber dineros,</l>
+            <l n="657" met="-+-+--+-">que tienen treinta porteros</l>
+            <l n="658" met="--+---+-">de su vista defensores;</l>
+            <l n="659" met="+--+-++-">no quien defensa no tiene,</l>
+            <l n="660" met="---++-+">sino que luego ha de dar</l>
+            <l n="661" met="---+--+">con el que viene a cobrar.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="662" met="+-+-+-+-">no a cobrar; a hablarte viene.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="663" met="---+-++">&#191;parecerate muy mal</l>
+            <l n="664" met="--+---+-">que te diga lo que siento?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="665" met="++----+-">no quiero, agradecimiento,</l>
+            <l n="666" met="--+---+">que me sirvas de fiscal.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="667" met="-+-+--+-">&#191;por qu&#233; has de estar olvidado</l>
+            <l n="668" met="--+--++-">de la deuda que a dios debes?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="669" met="+++-+-+-">&#191;hay ya m&#225;s en qu&#233; me pruebes,</l>
+            <l n="670" met="+--+--+-">necio, importuno y cansado?</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="671" met="+-----+">mira que la ingratitud,</l>
+            <l part="I" n="672" met="-+-++-+-">y m&#225;s con dios...</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="672" part="F" met="-+-++-+-">no te espero.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l part="I" n="673" met="-+-+-++-">&#161;advierte, escucha!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="673" part="F" met="-+-+-++-">no quiero.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="674" met="+-+-+-+">es vicioso y sois virtud.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="675" met="--+---+">rigurosa condici&#243;n,</l>
+            <l n="676" met="-+-+--+-">si bien antigua en el pecho</l>
+            <l n="677" met="-+----+-">del hombre, por quien sospecho</l>
+            <l n="678" met="--+---+">su castigo y perdici&#243;n.</l>
+            <l n="679" met="++-+-++-">este es el pr&#237;ncipe. &#161;ay, cielos!,</l>
+            <l n="680" met="+-+-+-+-">&#191;qui&#233;n le puede ser ingrato?</l>
+          </sp>
+          <stage>Sale el Pr&#237;ncipe.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="681" met="--+-+-+-">mientras m&#225;s al hombre trato,</l>
+            <l n="682" met="+-+-+-+-">m&#225;s me trata mal con celos.</l>
+            <l n="683" met="-+-+--+">amigo, &#191;qu&#233; haces aqu&#237;?</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="684" met="+--+--+-">Vengo de hablar con el hombre.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="685" met="-+----+-">&#191;acu&#233;rdase de mi nombre?</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="686" met="--+--++">de tu nombre, se&#241;or, s&#237;,</l>
+            <l n="687" met="----+-+">pero de la deuda no.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="688" met="-+--+-+">el plazo se cumple ya;</l>
+            <l n="689" met="-+--+-+">cuando &#233;l descuidado est&#225;</l>
+            <l n="690" met="-+--+-+">estoy cuidadoso yo.</l>
+            <l n="691" met="+-+---+">no le dejes de avisar</l>
+            <l n="692" met="---+--+-">aunque le pese de verte.</l>
+          </sp>
+          <sp who="#agradecimiento">
+            <speaker>AGRADECIMIENTO</speaker>
+            <l n="693" met="+-+---+-">Voy, se&#241;or, a obedecerte.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="694" met="++-+--+">no siento tanto el pagar</l>
+            <l n="695" met="--+---+">como el poco agradecer.</l>
+            <l n="696" met="--+++-+">pero, &#191;no sois hombre y yo</l>
+            <l n="697" met="+--+--+">soy quien por vos se oblig&#243;</l>
+            <l n="698" met="--+---+">a morir y a padecer?</l>
+          </sp>
+          <stage>Sale el Hombre y el Cuidado.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="699" met="++-+--+-">no he visto m&#225;s hermosura.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="700" met="+--+--+-">s&#237;, pero muy pedig&#252;e&#241;a.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="701" met="---+--+-">La Vanidad se lo ense&#241;a.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="702" met="-+-+--+-">&#191;Lo mismo no es la Locura?</l>
+            <l n="703" met="++-++-+-">no gastes t&#250; de esa suerte,</l>
+            <l n="704" met="--+-+-+-">sino vete poco a poco.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="705" met="-+++-++-">como ella es loca, soy loco,</l>
+            <l n="706" met="-++---+-">y en s&#237; mesma me convierte.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l part="I" n="707" met="-+--+-+-">&#161;el pr&#237;ncipe!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="707" part="F" met="-+--+-+-">&#191;Qu&#233; me cuentas?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="708" met="+-++++">digo que es &#233;l; no hay hu&#239;r.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="709" met="+-+---+">&#191;Qu&#233; le tengo de decir?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="710" met="+---+-+-">dile que pagarle intentas.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="711" met="+-+++-+-">&#161;Vive dios!, que es fuerte caso</l>
+            <l n="712" met="-+++--+-">topar un hombre a quien debe,</l>
+            <l n="713" met="---+--+-">porque ni a hablarle se atreve</l>
+            <l n="714" met="-+--+-+-">ni sabe mover el paso.</l>
+            <l part="I" n="715" met="-++-+-+">&#191;si me ha visto?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="715" part="F" met="-++-+-+">&#191;est&#225;s en ti?</l>
+            <l n="716" met="++--+-+-">&#191;dios quieres que no te vea?</l>
+            <l n="717" met="++--+-+-">no hay cosa que no le sea</l>
+            <l part="I" n="718" met="+-+++-+">m&#225;s que el sol clara.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="718" part="F" met="+-+++-+">es ans&#237;.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="719" met="-+-+--+">pregunta a Job si podr&#225;</l>
+            <l n="720" met="--+++-+">esconderse un hombre a dios.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="721" met="+---+-+">suelen encontrarse dos</l>
+            <l n="722" met="-+--+-+">que fueron amigos ya</l>
+            <l n="723" met="--++-+-">y que est&#225;n muy enojados</l>
+            <l n="724" met="--++--+">y que no saben fingir,</l>
+            <l n="725" met="-+--+-+">y ans&#237; nos podemos ir</l>
+            <l n="726" met="--+---+-">con los ojos descuidados,</l>
+            <l n="727" met="+---+++">no como que dios no ve</l>
+            <l n="728" met="-----++-">sino como que no vemos</l>
+            <l part="I" n="729" met="-+++--+-">a dios.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="729" part="F" met="-+++--+-">&#161;buen loco tenemos!</l>
+            <l n="730" met="-++--++">&#161;si no hay cosa en que no est&#233;!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="731" met="+-+-+-+-">ahora bien, descuido m&#237;o,</l>
+            <l part="I" n="732" met="+---+++-">echa por aqu&#237;.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="732" part="F" met="+---+++-">mal haces.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="733" met="---+--+-">por la verg&#252;enza incapaces</l>
+            <l n="734" met="-+--+-+-">los ojos del sol desv&#237;o.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l part="I" n="735" met="++-+-+">&#161;hombre, hombre!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="M" n="735" met="++-+-+">&#191;Llama?</l>
+          </sp>
+          <stage>Como que se van.</stage>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="735" part="F" met="++-+-+">s&#237;;</l>
+            <l n="736" met="++----+">no dejes de responder.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="737" met="-+++--+">tener mil cosas que hacer,</l>
+            <l n="738" met="-+--+-+">me llevan, se&#241;or, ans&#237;,</l>
+            <l n="739" met="----+-+-">porque como t&#250; me hiciste</l>
+            <l n="740" met="-+-+--+-">sujeto a tantos cuidados,</l>
+            <l n="741" met="+-+---+-">traigo en ellos ocupados</l>
+            <l n="742" met="--+---+-">los sentidos que me diste.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l part="I" n="743" met="+-+-+-+-">&#191;no me viste?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <stage>Ap</stage>
+            <l n="743" part="F" met="+-+-+-+-">(no le mientas).</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="744" met="-+--+-+">se&#241;or, al pasar te vi</l>
+            <l n="745" met="--+---+">pero no te conoc&#237;.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <stage>Ap</stage>
+            <l n="746" met="++-+--+-">(no digas tal, que te afrentas).</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="747" met="++----+-">&#161;Qu&#233; f&#225;cil que te declaras!</l>
+            <l n="748" met="+--+--+-">mal la verdad consideras,</l>
+            <l n="749" met="------+-">porque si me conocieras</l>
+            <l n="750" met="++----+-">yo pienso que me estimaras,</l>
+            <l n="751" met="--+---+">que de no me conocer</l>
+            <l n="752" met="+---+-+">nace el despreciarme ans&#237;.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="753" met="++--+-+">&#191;Qui&#233;n no te conoce a ti?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="754" met="+--+--+">Vete, si tienes que hacer.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="755" met="+--+--+">&#191;hay semejante bondad?</l>
+            <l n="756" met="+--+--+">besen los cielos tus pies;</l>
+            <l n="757" met="+-++--+">yo vendr&#233; a verte despu&#233;s,</l>
+            <l n="758" met="--+---+">soberana majestad.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="759" met="-++---+">&#191;despu&#233;s? m&#237;ralo mejor,</l>
+            <l n="760" met="++-+--+">que hay gran peligro en despu&#233;s.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="761" met="+++-+-+">&#161;Qu&#233; gran pr&#237;ncipe!</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="761" part="F" met="+++-+-+">es quien es.</l>
+          </sp>
+          <stage>Vanse.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="762" met="++--+-+">&#191;hay hoy inquietud mayor?</l>
+            <l n="763" met="--++--+">&#161;Que tan mal pago me den,</l>
+            <l n="764" met="+---+-+-">cielos, donde sois testigos!</l>
+            <l n="765" met="--+---+-">&#161;Que se pierdan los amigos</l>
+            <l n="766" met="+---+-+">solo por hacerles bien!</l>
+            <l n="767" met="-+-+--+-">por dicha el hombre me hablara</l>
+            <l n="768" met="--+---+-">cuando nada me debiera,</l>
+            <l n="769" met="---+--+-">y porque el bien considera</l>
+            <l n="770" met="---+--+-">en que me debe repara.</l>
+            <l n="771" met="-+-+--+">pues, hombre, mira tambi&#233;n</l>
+            <l n="772" met="---+--+">por diferencia en los dos,</l>
+            <l n="773" met="+-+--++">qu&#233; dejara de hacer dios</l>
+            <l n="774" met="-+-+-++">si no pudiera hacer bien.</l>
+            <l n="775" met="-++-+-+">aqu&#237; no te pido yo</l>
+            <l n="776" met="+-----+-">m&#225;s que el agradecimiento;</l>
+            <l part="I" n="777" met="-++-+-+-">&#191;por qu&#233; huyes?</l>
+          </sp>
+          <stage>Sale la Justicia y el Mundo con vara y gente.</stage>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="777" part="F" met="-++-+-+-">id con tiento.</l>
+          </sp>
+          <sp who="#mundo">
+            <speaker>MUNDO</speaker>
+            <l n="778" met="-+-+--+">temor de verle me dio.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="779" met="--+--+++-+-">soberano se&#241;or, ya se ha cumplido</l>
+            <l n="780" met="-+---+---+-">el plazo a que quedastes obligado;</l>
+            <l n="781" met="--+--+-+-+-">la escritura que hicistes ha tenido</l>
+            <l n="782" met="-+-+-+---+-">el fin de tantos siglos deseado.</l>
+            <l n="783" met="--+--+---+-">Vuestro padre cumpli&#243; lo prometido</l>
+            <l n="784" met="-+---+-+-+-">y al mundo, como veis, os ha env&#239;ado;</l>
+            <l n="785" met="-+-+---+-+-">el mundo aqu&#237; con mandamiento viene</l>
+            <l n="786" met="---+---+-+-">a ejecutaros, que de dios le tiene.</l>
+            <l n="787" met="--+--++--+-">perdonadle, se&#241;or, que ha de prenderos</l>
+            <l n="788" met="-+---+---+-">porque es la ejecuci&#243;n en vuestra vida</l>
+            <l n="789" met="-++--+---+-">y no sirve de nada el oponeros,</l>
+            <l n="790" met="---+---+-+-">aunque con sangre le pid&#225;is lo impida.</l>
+            <l n="791" met="-+---+---+-">Que baje de los cielos a ofreceros</l>
+            <l n="792" met="-+++-+-+-+-">consuelo un &#225;ngel, cosa nunca o&#237;da:</l>
+            <l n="793" met="+--+---+-+-">eso os concede vuestro padre amado;</l>
+            <l n="794" met="-+-+-+---+-">la vida no, que est&#225;is ejecutado.</l>
+            <l n="795" met="+-++-+---+-">bien sab&#233;is, gran se&#241;or, que os obligastes</l>
+            <l n="796" met="--+--+---+-">a morir en naciendo y que quisistes</l>
+            <l n="797" met="-+-+-+-+-+-">haceros vos deudor, que no pecastes</l>
+            <l n="798" met="--+--+---+-">y que en forma de esclavo os ofrecistes.</l>
+            <l n="799" met="+-+--+--++-">dad licencia que os saquen, si ya orastes,</l>
+            <l n="800" met="---+---+-+-">y la respuesta que sab&#233;is tuvistes.</l>
+            <l n="801" met="-+--++-+-+-">palabra de dios es: ponedla en obra,</l>
+            <l n="802" met="--+--++-++-">que con este rigor dios de dios cobra.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="803" met="-+-+-+---+-">Justicia, no replico al mandamiento;</l>
+            <l n="804" met="-+---+-+-+-">conozco la escritura y que ha llegado</l>
+            <l n="805" met="-+---+-+-+-">el plazo, aunque el rigor como hombre siento</l>
+            <l n="806" met="-+-+-+---+-">y ser por un ingrato ejecutado.</l>
+            <l n="807" met="+--+---+-+-">mundo, llegad, que la prisi&#243;n consiento;</l>
+            <l n="808" met="--+--+---+-">pagar&#233; por el hombre de contado</l>
+            <l n="809" met="---+---+-+-">sobre la tabla de la cruz abiertas</l>
+            <l n="810" met="-+---+-+-+-">las manos, y aun el cuerpo, en cinco puertas.</l>
+            <l n="811" met="-+---++--+-">amor que me oblig&#243; bien conoc&#237;a</l>
+            <l n="812" met="-----+--++-">a lo que me obligaba. morir quiero,</l>
+            <l n="813" met="++---+-+-+-">hoy llega de mi muerte el dulce d&#237;a,</l>
+            <l n="814" met="-++--+--++-">que ya sabe mi amor que por &#233;l muero.</l>
+            <l n="815" met="+--+-+--++-">no se pudiera hacer la prisi&#243;n m&#237;a</l>
+            <l n="816" met="-+-+---+-+-">si no lo fuera del amor primero;</l>
+            <l n="817" met="+--+-+--++-">cobra tu deuda, amor, que por ti he sido</l>
+            <l n="818" met="---+---+-+-">ejecutado hasta quedar vencido.</l>
+            <l n="819" met="+--+-+-+-+-">Luego que yo nac&#237; temblando al hielo,</l>
+            <l n="820" met="+----+-+-+-">vi de la ejecuci&#243;n los graves da&#241;os</l>
+            <l n="821" met="--+--+-+-+-">comenzando a pagar la vida al suelo</l>
+            <l n="822" met="---+---+-+-">en el principio de mis tiernos a&#241;os.</l>
+            <l n="823" met="-++--+-+-+-">amor, yo me obligu&#233; &#8212;testigo el cielo&#8212;,</l>
+            <l n="824" met="--+--+---+-">mis trabajos te dieron desenga&#241;os</l>
+            <l n="825" met="--+--+---+-">de que quiero pagar, aunque la muerte</l>
+            <l n="826" met="--+--+++-+-">por la parte mortal es trance fuerte.</l>
+            <l n="827" met="-+-+-+-+-+-">Labr&#233; moneda blanca, cuyo precio</l>
+            <l n="828" met="-+--++---+-">lo mismo que yo vale, y en memoria</l>
+            <l n="829" met="+-+--+-+-+-">desta paga real que estimo y precio</l>
+            <l n="830" met="-+---+---+-">en prendas de la deuda de la gloria</l>
+            <l n="831" met="-+-+-+---+-">tratarme tiene el mundo con desprecio;</l>
+            <l n="832" met="---+-+---+-">pero saldr&#233; del mundo con vitoria</l>
+            <l n="833" met="-+---+---+-">y el cielo, cuando a dios le satisfaga,</l>
+            <l n="834" met="--+--+---+-">abrir&#233; con la tabla de la paga.</l>
+          </sp>
+          <sp who="#mundo">
+            <speaker>MUNDO</speaker>
+            <l n="835" met="-+-+++">Justicia, &#191;c&#243;mo ha de ir?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="836" met="-+-+--+-">asido, mundo, le lleva.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="837" met="+-+-+++-">&#191;de un ingrato, qu&#233; m&#225;s prueba?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="838" met="-+++--+">se&#241;or, vos vais a morir,</l>
+            <l n="839" met="++-+--+">esto es pagar y cumplir</l>
+            <l n="840" met="---+-++">como quien sois, que sois dios,</l>
+            <l n="841" met="--+-+-+">porque solo vos con vos</l>
+            <l n="842" met="--+---+">le pod&#233;is satisfacer,</l>
+            <l n="843" met="--+-+-+">y entre el hombre y dios hacer</l>
+            <l n="844" met="---+--+">que se conformen los dos.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="845" met="-++-+-+-">&#191;Que en fin tengo de ir asido?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l part="I" n="846" met="+-++--+">s&#237;, se&#241;or.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="845" part="F" met="+-++--+">&#191;siendo quien soy?</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="847" met="+--+--+">esta licencia le doy</l>
+            <l n="848" met="-+--+-+-">al mundo que os ha ofendido.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="849" met="-+-+--+-">pues &#191;c&#243;mo tanto ru&#239;do</l>
+            <l n="850" met="---++-+-">para llevar un cordero?</l>
+          </sp>
+          <sp who="#mundo">
+            <speaker>MUNDO</speaker>
+            <l n="850" met="-+--+-+-">mir&#225;raislo vos primero.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="851" met="+-+-+-+">hombre, solo quiero aqu&#237;</l>
+            <l n="852" met="---+--+">que pues que pago por ti</l>
+            <l n="853" met="-+----+-">conozcas lo que te quiero.</l>
+          </sp>
+          <stage>Vanse y sale el Hombre y el Cuidado.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l part="I" n="854" met="+-+-+-+-">&#191;Qu&#233; me cuentas?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="854" part="F" met="+-+-+-+-">esto pasa.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="855" met="---+--+-">&#191;Y que a la c&#225;rcel le llevan?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="856" met="+-+-+-+-">Yo le vi con estos ojos.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="857" met="+-+-+-+-">&#161;dado me has notable pena!</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="858" met="+-+++-+">no cre&#237; que a un hombre y dios</l>
+            <l n="859" met="+-+---+-">tanto el mundo se atreviera.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="860" met="---+--+">&#191;Que le trataron tan mal?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="861" met="-+--+-+-">atado en la c&#225;rcel queda.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="862" met="-+--+-+-">pues dime: &#191;sab&#237;a el mundo</l>
+            <l n="863" met="+--+--+-">que eran las deudas ajenas?</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="864" met="---++++">el acreedor tuyo es dios</l>
+            <l n="865" met="-+-+--+-">y cobra desta manera,</l>
+            <l n="866" met="--+---+-">que traspasa la escritura</l>
+            <l n="867" met="-+-+--+-">al mundo y quiere con ella</l>
+            <l n="868" met="-+--+-+-">quedar de la deuda libre.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="869" met="++--+-+-">&#161;ay, suma bondad inmensa!</l>
+            <l n="870" met="+-+++-+">ahora bien, yo no he de ser</l>
+            <l n="871" met="-+--+-+-">ingrato, ni dios lo quiera:</l>
+            <l n="872" met="--+---+-">si las piedras se enternecen</l>
+            <l n="873" met="-+++--+-">ser&#233; yo m&#225;s que las piedras.</l>
+            <l n="874" met="-+----+-">mudemos de pensamiento:</l>
+            <l n="875" met="+-+-+-+-">vuelve a ser lo que antes eras,</l>
+            <l n="876" met="+--+--+-">vuelve a llamarte cuidado.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="877" met="+--+--+-">Ya sin que t&#250; me lo adviertas,</l>
+            <l n="878" met="+-+---+">yo que vide padecer</l>
+            <l n="879" met="-+--+-+-">a dios tan injustas penas</l>
+            <l n="880" met="-+-+--+-">volv&#237; a llamarme cuidado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="881" met="-+-+-++-">La c&#225;rcel pienso que es esta;</l>
+            <l part="I" n="882" met="+---+-+">llama.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="882" part="F" met="+---+-+">&#191;para qu&#233; es llamar,</l>
+            <l n="883" met="---+--+-">sino llegar a la reja?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="884" met="++----+-">&#191;hay l&#225;stima semejante?</l>
+            <l n="885" met="-+--+-+-">Los hierros convierte en cera.</l>
+          </sp>
+          <stage>El Pr&#237;ncipe detr&#225;s de la reja con una tunicela morada y una corona de espinas.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="886" met="-+++-++">se&#241;or, &#191;qu&#233; es esto? &#191;Qui&#233;n fue</l>
+            <l n="887" met="-+----+-">tan fiero que la belleza</l>
+            <l n="888" met="--+-+-+">de los cielos puso ans&#237;?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="889" met="-+--+-+-">amigo, tus mismas deudas.</l>
+          </sp>
+          <stage>Llora el Hombre.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="890" met="-+-+--+-">&#191;mis deudas, pr&#237;ncipe m&#237;o?</l>
+            <l n="891" met="-+--+-+-">&#191;mis deudas, bondad inmensa?</l>
+            <l n="892" met="++-+--+-">&#191;Vos preso, vos maltratado?</l>
+            <l n="893" met="-+-+--+-">&#161;a m&#237; es raz&#243;n que me prendan!</l>
+            <l n="894" met="-+-++-+">Justicia, aqu&#237; est&#225; el deudor,</l>
+            <l n="895" met="++-+-++-">yo soy el hombre, no quieras</l>
+            <l n="896" met="-+--+-+-">cobrar de quien no te debe.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="897" met="+-++-++-">hombre, &#191;qu&#233; es esto? &#191;t&#250; piensas</l>
+            <l n="898" met="-+--+-+">que puedes pagar a dios?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="899" met="+--+--+-">&#191;han de decir que le niega</l>
+            <l n="900" met="-+-+--+">la deuda el hombre, se&#241;or?</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="901" met="+--+--+-">basta que t&#250; me agradezcas</l>
+            <l n="902" met="--+---+">el dejarme ejecutor,</l>
+            <l n="903" met="-+--+-+-">y basta que t&#250; lo sepas</l>
+            <l n="904" met="----+-+">para que el morir por ti</l>
+            <l n="905" met="-+--+-+-">por gloria y descanso tenga.</l>
+            <l n="906" met="+--+--+-">solo te pido, pues pago,</l>
+            <l n="907" met="+--+-+-">no huyas de m&#237;, ni seas</l>
+            <l n="908" met="---+-++-">&#8212;como viviendo lo has sido&#8212;</l>
+            <l n="909" met="-+--+-+-">ingrato despu&#233;s que muera.</l>
+            <l n="910" met="+-++--+">hombre, ya vienen por m&#237;,</l>
+            <l n="911" met="+--+--+-">qu&#233;date a dios, que me llevan</l>
+            <l n="912" met="-++-+-+-">con tal priesa a hacer la paga</l>
+            <l n="913" met="-++-+-+-">que no dan lugar apenas</l>
+            <l n="914" met="---+--+">a despedirme de ti,</l>
+            <l n="915" met="----+-+-">mas como bondad eterna</l>
+            <l n="916" met="-+-+--+">palabra, amigo, te doy</l>
+            <l n="917" met="-++-+-+-">de no hacer del mundo ausencia;</l>
+            <l n="918" met="-+-+--+">aqu&#237; me quiero quedar,</l>
+            <l n="919" met="-+--+-+-">supuesto que no me veas,</l>
+            <l n="920" met="-+--+-+-">a darte sustento y vida.</l>
+          </sp>
+          <stage>Vase.</stage>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="921" met="+--+--+-">Fuese. &#161;notable tristeza!</l>
+            <l n="922" met="+-++--+-">ojos, &#191;qu&#233; l&#225;grimas m&#237;as</l>
+            <l n="923" met="--+-+-+-">bastar&#225;n en tanta pena?</l>
+            <l n="924" met="-+-+--+-">el sol se eclipsa y el cielo</l>
+            <l n="925" met="--+-+-+-">en los ejes de oro tiembla,</l>
+            <l n="926" met="-++--++-">mas &#191;qu&#233; mucho, si dios paga</l>
+            <l n="927" met="-+----+-">mis deudas con su inocencia,</l>
+            <l n="928" met="---+--+-">que se trastornen los cielos</l>
+            <l n="929" met="---+--+-">y que se rompa la tierra?</l>
+          </sp>
+          <stage>Sale el Demonio y el Pecado.</stage>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I" n="930" met="++-+-++-">este es, asilde.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="930" part="F" met="++-+-++-">&#191;Qu&#233; es esto?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="931" met="++-+--+-">&#191;Qu&#233; quieres, hombre, que sea?</l>
+            <l n="932" met="---+-+">tus acreedores son.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="933" met="-+--+-+-">a tiempo notable llegan.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I" n="934" met="+-+--++-">&#161;paga, infame!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="934" part="F" met="+-+--++-">&#191;Que yo pague?</l>
+            <l n="935" met="+-+---+-">no pudiera aunque quisiera,</l>
+            <l n="936" met="-+--+++">que deudas de dios ya dios</l>
+            <l part="I" n="937" met="-+--+++-">las paga.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="937" part="F" met="-+--+++-">La trampa es buena.</l>
+            <l part="I" n="938" met="+-+-+-+-">&#161;paga, digo!</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="938" part="F" met="+-+-+-+-">Ya he pagado.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="939" met="-+--+-+-">La carta de pago muestra.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="940" met="-+-+--+">si ya ha pagado el fiador</l>
+            <l n="941" met="-+--+-+-">&#191;por qu&#233; me ped&#237;s la deuda?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="942" met="++-+--+">&#191;dios ha pagado por ti?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="943" met="-+-+--+-">en una tabla sangrienta</l>
+            <l n="944" met="---+--+-">hasta quedarse desnudo</l>
+            <l n="945" met="-+-+--+-">y rotas todas las venas,</l>
+            <l n="946" met="--+---+-">y en memoria de la paga</l>
+            <l n="947" met="-+-+--+-">tambi&#233;n en blanca moneda</l>
+            <l n="948" met="+-+---+-">se ha quedado con el hombre</l>
+            <l n="949" met="---+--+-">depositado en su iglesia.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="950" met="++-+-++-">&#191;Qu&#233; dices, hombre? &#191;est&#225;s loco?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="951" met="--+-+-+-">de contento bien pudiera,</l>
+            <l n="952" met="--+--++-">aunque en ver que por m&#237; muere</l>
+            <l n="953" met="++--+-+-">me ha dado mortal tristeza.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="954" met="+-+-+-+">cosas tiene dios que har&#225;</l>
+            <l n="955" met="++----+-">dar voces hasta las piedras.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="956" met="++-+--+-">bien dices, que ellas hablaron</l>
+            <l n="957" met="------+-">contra su naturaleza,</l>
+            <l n="958" met="---+--+-">que por mostrar sentimiento</l>
+            <l n="959" met="-+--+-+-">hicieron sus golpes lenguas.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="960" met="++-+--+-">Yo lo he de ver con los ojos,</l>
+            <l n="961" met="-+-+--+-">que en esos montes apenas</l>
+            <l n="962" met="-+--+-+">las quiso volver en pan</l>
+            <l n="963" met="-+--+-+-">tent&#225;ndole yo con ellas.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="964" met="-+--+-+-">pues vuelve, y ver&#225;s su triunfo.</l>
+          </sp>
+          <stage>Sale el Pr&#237;ncipe con una tunicela encarnada y una cruz con su banderilla, como que ha resucitado.</stage>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="965" met="-+-+--+-">celebre el cielo y la tierra</l>
+            <l n="966" met="--+-+-+-">la vitoria desta paga.</l>
+          </sp>
+          <sp who="#cuidado">
+            <speaker>CUIDADO</speaker>
+            <l n="967" met="++-+--+-">&#161;oh, qu&#233; glorioso que llega!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="968" met="+---+-+">ciego de mirar su luz.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="969" met="-++-+-+-">all&#225; voy, Justicia eterna,</l>
+            <l n="970" met="---+--+-">a cancelar la escritura,</l>
+            <l n="971" met="-+-+--+-">pues se ha pagado la deuda.</l>
+          </sp>
+          <stage>&#193;brase el trono y p&#243;ngase el Pr&#237;ncipe en la pea&#241;a, y con la m&#250;sica sube al trono.</stage>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="972" met="+-+-+-+-">Vos hab&#233;is, se&#241;or inmenso,</l>
+            <l n="973" met="-+----+-">cumplido como quien era</l>
+            <l part="I" n="974" met="+--++-+-">hijo de dios.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="974" part="F" met="+--++-+-">Ya, Justicia,</l>
+            <l n="975" met="--++--+-">estar&#225;s bien satisfecha.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="976" met="-+-+--+">&#191;Y yo de qu&#233; lo estar&#233;,</l>
+            <l n="977" met="---+--+-">si con mi lengua blasfema</l>
+            <l n="978" met="+-+-+-+">no escurezco el mismo sol</l>
+            <l n="979" met="--+---+-">y derribo las estrellas?</l>
+            <l n="980" met="+--+--+-">cosas de dios, en efeto,</l>
+            <l n="981" met="----+-+-">que como si no me hiciera,</l>
+            <l n="982" met="+---+-+-">quiere que los pies del hombre</l>
+            <l n="983" met="--+---+-">me quebranten la cabeza.</l>
+            <l n="984" met="+--+--+-">Vente conmigo, pecado,</l>
+            <l n="985" met="--+-+-+-">que aunque dios pagado queda</l>
+            <l n="986" met="+-++--+-">yo armar&#233; trampas al hombre</l>
+            <l n="987" met="---+--+-">con que a las manos me venga.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="988" met="++-+-++-">&#191;Qu&#233; quieres, hombre? &#191;Qu&#233; aguardas?</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="989" met="---+--+-">Que de la deuda me absuelvas.</l>
+            <l n="990" met="+--+-++-">dame raz&#243;n, pues es justo,</l>
+            <l n="991" met="--+-+-+-">para que este no me prenda.</l>
+          </sp>
+          <sp who="#misericordia">
+            <speaker>MISERICORDIA</speaker>
+            <l n="992" met="-+-+-++">el hombre pide muy bien.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="993" met="+---+-+-">dadle, pues que libre queda,</l>
+            <l n="994" met="---+--+-">ejecutoria de todo.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="995" met="-+--+++-">se&#241;or, la escritura es esta;</l>
+            <l n="996" met="-+-+--+-">mostrad la carta de pago.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="997" met="+-+---+-">esta cruz que manifiesta</l>
+            <l n="998" met="-+----+-">la paga, pues con su tabla</l>
+            <l n="999" met="-++-+-+-">pagu&#233; a dios clavado en ella.</l>
+          </sp>
+          <sp who="#justicia">
+            <speaker>JUSTICIA</speaker>
+            <l n="1000" met="+-+---+-">Yo cancelo la escritura.</l>
+            <l n="1001" met="+--+--+-">hombre, al demonio le muestra</l>
+            <l n="1002" met="+--+--+-">siempre que quiera pedirte</l>
+            <l n="1003" met="+-++--+-">esta carta, esta bandera,</l>
+            <l n="1004" met="+-+-+-+-">este sello y esta espada,</l>
+            <l n="1005" met="+++--+-">esta honda, esta defensa,</l>
+            <l n="1006" met="+-+---+">esta llave celestial.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="1007" met="-++-+-+-">Y yo quiero abrir con ella</l>
+            <l n="1008" met="-+-+--+-">la gloria que he conquistado.</l>
+          </sp>
+          <sp who="#hombre">
+            <speaker>HOMBRE</speaker>
+            <l n="1009" met="+++-+-+-">&#161;oh, qui&#233;n de esa boca oyera!</l>
+            <l n="1010" met="-+++--+">pues no fue menos que dios</l>
+            <l n="1011" met="+-+-+-+-">hoy ser&#225;s conmigo en ella.</l>
+          </sp>
+          <sp who="#principe">
+            <speaker>PR&#205;NCIPE</speaker>
+            <l n="1012" met="+-+---+">s&#237; ser&#225;s, que para ti</l>
+            <l n="1013" met="+--+--+-">queda entretanto en mi iglesia</l>
+            <l n="1014" met="-+----+-">la prenda que con mi gracia</l>
+            <l n="1015" met="--+-+-+-">te dar&#225; mi gloria eterna.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
