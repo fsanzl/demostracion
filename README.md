@@ -72,8 +72,14 @@ pdftotext -layout -nodiag -nopgbrk LopeAcreedores.pdf
 ## 2. Modelado de datos
 
 ### 2.1. De VED a XML-TEI
+```bash
+txt2tei input.txt
+```
 
 ### 2.2. De VED a CSV
+```bash
+normal input.txt
+```
 
 ## 3. Anotación métrica del corpus
 
@@ -91,4 +97,6 @@ for atributo in ['line', 'count', 'syllables', 'rhyme', 'asson', 'nuclei', 'rhyt
 ```
 
 ### 3.2. Procesamiento masivo
-
+```bash
+./scan.py
+```
