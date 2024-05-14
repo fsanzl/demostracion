@@ -15,7 +15,7 @@
 git clone https://github.com/fsanzl/demostracion
 ```
 
-### 0.2. Bibliotecas de Python
+### 0.3. Bibliotecas de Python
 
 ```bash
 python -m venv .venv --prompt "Entorno virtual"
@@ -29,7 +29,7 @@ source ./.venv/bin/activate
 pip install pip install silabeador fonemas stanza==1.7.0 libEscansion txt2tei
 ```
 
-### 0.3. Modelos de lengua
+### 0.4. Modelos de lengua
 
 ```bash
 export STANZA_RESOURCES_DIR=./.venv/lib/python3.11/site-packages/stanza/resources
