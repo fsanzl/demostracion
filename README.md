@@ -66,7 +66,7 @@ pdftotext -layout -nodiag -nopgbrk LopeAcreedores.pdf
 ### 1.2. De TXT a VED
 
 ```bash
-cat LopeAcreedores.txt|sed 's/^\([A-Za-záéíóú]\+\)\(\s\{2,\}\)/\U\1\n\2/g'
+./process.py LopeAcreedores.txt|sed 's/^\([A-Za-záéíóú]\+\)\(\s\{2,\}\)/\U\1\n\2/g'
 ```
 
 ## 2. Modelado de datos
