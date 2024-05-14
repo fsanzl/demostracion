@@ -8,6 +8,13 @@
 - Herramienta para transformar de PDF a TXT conservando la composición de la página
 - Editor capaz de hacer sustituciones mediante expresiones regulares
 
+### 0.2 Clone repository
+
+
+```bash
+git clone https://github.com/fsanzl/demostracion
+```
+
 ### 0.2. Bibliotecas de Python
 
 ```bash
