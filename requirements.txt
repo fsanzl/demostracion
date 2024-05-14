@@ -1,0 +1,5 @@
+silabeador
+fonemas
+stanza==1.7.0
+libEscansion
+txt2tei
