@@ -26,7 +26,7 @@ source ./.venv/bin/activate
 ```
 
 ```bash
-pip install pip install silabeador fonemas stanza==1.7.0 libEscansion txt2tei
+pip install -r requirements.txt
 ```
 
 ### 0.4. Modelos de lengua
